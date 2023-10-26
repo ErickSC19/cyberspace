@@ -1,0 +1,439 @@
+{
+  "titulo": "Fundamentos de cyberseguridad",
+  "texto": "",
+  "video": "",
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es la autenticación de dos factores (2FA)?",
+      "opciones": [
+        "a) Un método de autenticación que requiere dos contraseñas distintas.",
+        "b) Un método de autenticación que utiliza dos dispositivos diferentes.",
+        "c) Un método de autenticación que combina dos elementos diferentes para verificar la identidad del usuario."
+      ],
+      "respuesta_correcta": "c) Un método de autenticación que combina dos elementos diferentes para verificar la identidad del usuario."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes opciones es un ejemplo de un ataque de phishing?",
+      "opciones": [
+        "a) Malware que cifra los archivos de la víctima y exige un rescate.",
+        "b) Suplantación de identidad para engañar a una persona y robar información confidencial.",
+        "c) Acceso no autorizado a una red o sistema."
+      ],
+      "respuesta_correcta": "b) Suplantación de identidad para engañar a una persona y robar información confidencial."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes prácticas es una buena medida de seguridad para contraseñas?",
+      "opciones": [
+        "a) Utilizar la misma contraseña para todas las cuentas.",
+        "b) Cambiar la contraseña cada 5 años.",
+        "c) Usar contraseñas fuertes y únicas para cada cuenta."
+      ],
+      "respuesta_correcta": "c) Usar contraseñas fuertes y únicas para cada cuenta."
+    },
+    {
+      "pregunta": "¿Qué significa el acrónimo 'DDoS' en el contexto de la ciberseguridad?",
+      "opciones": [
+        "a) Denegación de Defensa y Soporte.",
+        "b) Distribución de Datos y Servicios.",
+        "c) Ataque de Denegación de Servicio Distribuido."
+      ],
+      "respuesta_correcta": "c) Ataque de Denegación de Servicio Distribuido."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes declaraciones describe mejor el cifrado de extremo a extremo?",
+      "opciones": [
+        "a) Cifrado de datos en un solo extremo de una conexión de red.",
+        "b) Cifrado de datos en ambos extremos de una comunicación para protegerlo de miradas indiscretas.",
+        "c) Cifrado de datos solo en servidores de correo electrónico."
+      ],
+      "respuesta_correcta": "b) Cifrado de datos en ambos extremos de una comunicación para protegerlo de miradas indiscretas."
+    },
+    {
+      "pregunta": "¿Qué es un cortafuegos (firewall) en ciberseguridad?",
+      "opciones": [
+        "a) Un programa antivirus.",
+        "b) Un sistema de control de acceso que protege una red o dispositivo al bloquear o permitir el tráfico de red.",
+        "c) Una herramienta de copia de seguridad de datos."
+      ],
+      "respuesta_correcta": "b) Un sistema de control de acceso que protege una red o dispositivo al bloquear o permitir el tráfico de red."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes prácticas es una medida efectiva para prevenir infecciones de malware?",
+      "opciones": [
+        "a) Descargar archivos adjuntos de correo electrónico de remitentes desconocidos.",
+        "b) Mantener el software y sistemas actualizados con parches de seguridad.",
+        "c) Compartir contraseñas con colegas para facilitar el acceso a sistemas compartidos."
+      ],
+      "respuesta_correcta": "b) Mantener el software y sistemas actualizados con parches de seguridad."
+    },
+    {
+      "pregunta": "¿Qué es la ingeniería social en ciberseguridad?",
+      "opciones": [
+        "a) La práctica de programar software malicioso.",
+        "b) La manipulación psicológica para engañar a las personas y obtener información confidencial.",
+        "c) Un proceso de autenticación en línea."
+      ],
+      "respuesta_correcta": "b) La manipulación psicológica para engañar a las personas y obtener información confidencial."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de fuerza bruta en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque que utiliza la fuerza física para dañar equipos informáticos.",
+        "b) Un ataque que intenta adivinar contraseñas probando todas las combinaciones posibles.",
+        "c) Un ataque que engaña a las personas para revelar información confidencial."
+      ],
+      "respuesta_correcta": "b) Un ataque que intenta adivinar contraseñas probando todas las combinaciones posibles."
+    },
+    {
+      "pregunta": "¿Qué es un certificado SSL/TLS en ciberseguridad?",
+      "opciones": [
+        "a) Un tipo de software antivirus.",
+        "b) Un estándar de seguridad que cifra la comunicación entre un navegador web y un servidor.",
+        "c) Una contraseña de administrador en una red local."
+      ],
+      "respuesta_correcta": "b) Un estándar de seguridad que cifra la comunicación entre un navegador web y un servidor."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de suplantación de identidad (phishing)?",
+      "opciones": [
+        "a) Un ataque que intenta adivinar contraseñas por fuerza bruta.",
+        "b) Un ataque que utiliza malware para cifrar archivos.",
+        "c) Un ataque que se hace pasar por una entidad confiable para engañar a las personas y obtener información confidencial."
+      ],
+      "respuesta_correcta": "c) Un ataque que se hace pasar por una entidad confiable para engañar a las personas y obtener información confidencial."
+    },
+    {
+      "pregunta": "¿Qué es un firewall de aplicación web (WAF) en ciberseguridad?",
+      "opciones": [
+        "a) Un programa antivirus que protege contra malware.",
+        "b) Un sistema de detección de intrusiones de red.",
+        "c) Una solución que protege aplicaciones web al filtrar y monitorear el tráfico HTTP."
+      ],
+      "respuesta_correcta": "c) Una solución que protege aplicaciones web al filtrar y monitorear el tráfico HTTP."
+    },
+    {
+      "pregunta": "¿Qué significa el acrónimo 'VPN' en ciberseguridad?",
+      "opciones": [
+        "a) Virtual Private Network",
+        "b) Virus Protection Network",
+        "c) Very Personal Network"
+      ],
+      "respuesta_correcta": "a) Virtual Private Network"
+    },
+    {
+      "pregunta": "¿Qué es el ransomware en ciberseguridad?",
+      "opciones": [
+        "a) Un tipo de malware que cifra los archivos de la víctima y exige un rescate.",
+        "b) Un software de seguridad que protege contra phishing.",
+        "c) Un dispositivo de seguridad para redes inalámbricas."
+      ],
+      "respuesta_correcta": "a) Un tipo de malware que cifra los archivos de la víctima y exige un rescate."
+    },
+    {
+      "pregunta": "¿Qué es la ingeniería inversa en ciberseguridad?",
+      "opciones": [
+        "a) Un método para fortalecer contraseñas.",
+        "b) Un enfoque para identificar vulnerabilidades en software.",
+        "c) Un proceso de descompilar y analizar el código binario para entender su funcionamiento interno."
+      ],
+      "respuesta_correcta": "c) Un proceso de descompilar y analizar el código binario para entender su funcionamiento interno."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de intermediario (man-in-the-middle) en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque que explota vulnerabilidades en aplicaciones web.",
+        "b) Un ataque que redirige el tráfico de red a través de un atacante sin el conocimiento de las partes involucradas.",
+        "c) Un ataque que utiliza contraseñas débiles para obtener acceso a sistemas."
+      ],
+      "respuesta_correcta": "b) Un ataque que redirige el tráfico de red a través de un atacante sin el conocimiento de las partes involucradas."
+    },
+    {
+      "pregunta": "¿Qué es el principio de mínimo privilegio en ciberseguridad?",
+      "opciones": [
+        "a) Dar a los usuarios tantos permisos como sea posible para facilitar el acceso.",
+        "b) Conceder permisos de administrador a todos los usuarios.",
+        "c) Conceder a los usuarios solo los permisos mínimos necesarios para realizar sus tareas específicas."
+      ],
+      "respuesta_correcta": "c) Conceder a los usuarios solo los permisos mínimos necesarios para realizar sus tareas específicas."
+    },
+    {
+      "pregunta": "¿Qué es el software de seguridad de punto final en ciberseguridad?",
+      "opciones": [
+        "a) Un programa de copia de seguridad.",
+        "b) Un software de seguridad que protege dispositivos finales, como computadoras y teléfonos móviles.",
+        "c) Un sistema de detección de intrusiones de red."
+      ],
+      "respuesta_correcta": "b) Un software de seguridad que protege dispositivos finales, como computadoras y teléfonos móviles."
+    },
+    {
+      "pregunta": "¿Qué es el factor biométrico en autenticación?",
+      "opciones": [
+        "a) Un factor que se basa en algo que la persona sabe, como una contraseña.",
+        "b) Un factor que se basa en algo que la persona tiene, como un token de seguridad.",
+        "c) Un factor que se basa en características físicas o comportamiento único, como la huella dactilar o el reconocimiento facial."
+      ],
+      "respuesta_correcta": "c) Un factor que se basa en características físicas o comportamiento único, como la huella dactilar o el reconocimiento facial."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de inyección SQL en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque que roba contraseñas a través de phishing.",
+        "b) Un ataque que explota vulnerabilidades en sistemas operativos.",
+        "c) Un ataque que inserta código malicioso en las consultas de una base de datos para obtener acceso no autorizado."
+      ],
+      "respuesta_correcta": "c) Un ataque que inserta código malicioso en las consultas de una base de datos para obtener acceso no autorizado."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de denegación de servicio distribuido (DDoS) en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque que intenta adivinar contraseñas por fuerza bruta.",
+        "b) Un ataque que cifra los archivos de la víctima y exige un rescate.",
+        "c) Un ataque que abruma un servicio en línea con tráfico malicioso para dejarlo inaccesible."
+      ],
+      "respuesta_correcta": "c) Un ataque que abruma un servicio en línea con tráfico malicioso para dejarlo inaccesible."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de ingeniería social en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque que utiliza malware para cifrar archivos.",
+        "b) Un ataque que intenta adivinar contraseñas probando todas las combinaciones posibles.",
+        "c) Un ataque que se basa en engañar a las personas para revelar información confidencial."
+      ],
+      "respuesta_correcta": "c) Un ataque que se basa en engañar a las personas para revelar información confidencial."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes opciones describe mejor el cifrado de datos?",
+      "opciones": [
+        "a) Ocultar datos para que nadie pueda verlos.",
+        "b) Cambiar la contraseña de un sistema.",
+        "c) Proteger datos mediante la conversión en un formato ilegible que solo puede ser decodificado por personas autorizadas."
+      ],
+      "respuesta_correcta": "c) Proteger datos mediante la conversión en un formato ilegible que solo puede ser decodificado por personas autorizadas."
+    },
+    {
+      "pregunta": "¿Qué es el ransomware en ciberseguridad?",
+      "opciones": [
+        "a) Un tipo de ataque de intermediario (man-in-the-middle).",
+        "b) Un tipo de malware que cifra los archivos de la víctima y exige un rescate.",
+        "c) Un programa antivirus de seguridad."
+      ],
+      "respuesta_correcta": "b) Un tipo de malware que cifra los archivos de la víctima y exige un rescate."
+    },
+    {
+      "pregunta": "¿Qué es un cortafuegos (firewall) en ciberseguridad?",
+      "opciones": [
+        "a) Un programa de análisis de vulnerabilidades.",
+        "b) Un sistema de detección de intrusiones de red.",
+        "c) Un dispositivo o software que controla y filtra el tráfico de red para proteger una red o dispositivo."
+      ],
+      "respuesta_correcta": "c) Un dispositivo o software que controla y filtra el tráfico de red para proteger una red o dispositivo."
+    },
+    {
+      "pregunta": "¿Qué es el principio de mínimos privilegios en ciberseguridad?",
+      "opciones": [
+        "a) Conceder a los usuarios el máximo acceso y control posible.",
+        "b) Conceder a los usuarios solo los permisos mínimos necesarios para realizar sus tareas específicas.",
+        "c) Mantener contraseñas largas y complejas para todos los usuarios."
+      ],
+      "respuesta_correcta": "b) Conceder a los usuarios solo los permisos mínimos necesarios para realizar sus tareas específicas."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de suplantación de identidad (phishing)?",
+      "opciones": [
+        "a) Un ataque que intenta adivinar contraseñas por fuerza bruta.",
+        "b) Un ataque que utiliza malware para cifrar archivos.",
+        "c) Un ataque que se hace pasar por una entidad confiable para engañar a las personas y obtener información confidencial."
+      ],
+      "respuesta_correcta": "c) Un ataque que se hace pasar por una entidad confiable para engañar a las personas y obtener información confidencial."
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes declaraciones describe mejor el cifrado de extremo a extremo?",
+      "opciones": [
+        "a) Cifrado de datos en un solo extremo de una comunicación.",
+        "b) Cifrado de datos en ambos extremos de una comunicación para protegerlo de miradas indiscretas.",
+        "c) Cifrado de datos en servidores de correo electrónico solamente."
+      ],
+      "respuesta_correcta": "b) Cifrado de datos en ambos extremos de una comunicación para protegerlo de miradas indiscretas."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de fuerza bruta en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque que redirige el tráfico de red a través de un atacante sin el conocimiento de las partes involucradas.",
+        "b) Un ataque que intenta adivinar contraseñas probando todas las combinaciones posibles.",
+        "c) Un ataque que utiliza malware para obtener información de una base de datos."
+      ],
+      "respuesta_correcta": "b) Un ataque que intenta adivinar contraseñas probando todas las combinaciones posibles."
+    },
+    {
+      "pregunta": "¿Qué es un certificado SSL/TLS en ciberseguridad?",
+      "opciones": [
+        "a) Un tipo de software de seguridad de punto final.",
+        "b) Un estándar de seguridad que cifra la comunicación entre un navegador web y un servidor.",
+        "c) Un tipo de malware que se propaga a través de correo electrónico."
+      ],
+      "respuesta_correcta": "b) Un estándar de seguridad que cifra la comunicación entre un navegador web y un servidor."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de inyección SQL en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque que explota vulnerabilidades en sistemas operativos.",
+        "b) Un ataque que intenta adivinar contraseñas por fuerza bruta.",
+        "c) Un ataque que inserta código malicioso en las consultas de una base de datos para obtener acceso no autorizado."
+      ],
+      "respuesta_correcta": "c) Un ataque que inserta código malicioso en las consultas de una base de datos para obtener acceso no autorizado."
+    },
+    {
+      "pregunta": "¿Qué es un escáner de vulnerabilidades en ciberseguridad?",
+      "opciones": [
+        "a) Una herramienta para crear copias de seguridad de datos.",
+        "b) Un programa que busca y detecta posibles brechas de seguridad en sistemas o redes.",
+        "c) Un tipo de malware que bloquea el acceso a archivos o sistemas hasta que se pague un rescate."
+      ],
+      "respuesta_correcta": "b) Un programa que busca y detecta posibles brechas de seguridad en sistemas o redes."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de suplantación de DNS en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque que utiliza servidores DNS para ocultar la ubicación real de un sitio web.",
+        "b) Un ataque que redirige el tráfico de red a través de un atacante.",
+        "c) Un ataque que secuestra solicitudes DNS para dirigirlas a sitios web maliciosos."
+      ],
+      "respuesta_correcta": "c) Un ataque que secuestra solicitudes DNS para dirigirlas a sitios web maliciosos."
+    },
+    {
+      "pregunta": "¿Qué es la autenticación de dos factores (2FA) en ciberseguridad?",
+      "opciones": [
+        "a) Un método de autenticación que utiliza dos contraseñas distintas.",
+        "b) Un método de autenticación que requiere dos dispositivos diferentes.",
+        "c) Un método de autenticación que combina dos elementos diferentes para verificar la identidad del usuario."
+      ],
+      "respuesta_correcta": "c) Un método de autenticación que combina dos elementos diferentes para verificar la identidad del usuario."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de secuestro de sesión en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque que secuestra el tráfico de red entre un cliente y un servidor.",
+        "b) Un ataque que toma control de la sesión de un usuario legítimo para acceder a una aplicación o sitio web.",
+        "c) Un ataque que utiliza ingeniería social para obtener información de inicio de sesión de un usuario."
+      ],
+      "respuesta_correcta": "b) Un ataque que toma control de la sesión de un usuario legítimo para acceder a una aplicación o sitio web."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de puerta trasera (backdoor) en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque que utiliza una puerta trasera en un servidor para escapar de un sistema.",
+        "b) Un ataque que se oculta detrás de un cortafuegos.",
+        "c) Un acceso no autorizado a un sistema o aplicación que permite a un atacante eludir la autenticación normal."
+      ],
+      "respuesta_correcta": "c) Un acceso no autorizado a un sistema o aplicación que permite a un atacante eludir la autenticación normal."
+    },
+    {
+      "pregunta": "¿Qué es la criptografía en ciberseguridad?",
+      "opciones": [
+        "a) Un método para proteger datos mediante la conversión en un formato ilegible.",
+        "b) Un método para acelerar la velocidad de la red.",
+        "c) Un método para detectar amenazas en una red."
+      ],
+      "respuesta_correcta": "a) Un método para proteger datos mediante la conversión en un formato ilegible."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de suplantación de ARP en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque que utiliza ARP para obtener información de dirección IP.",
+        "b) Un ataque que se hace pasar por otro dispositivo en una red para interceptar el tráfico.",
+        "c) Un ataque que utiliza JavaScript para inyectar código malicioso en una página web."
+      ],
+      "respuesta_correcta": "b) Un ataque que se hace pasar por otro dispositivo en una red para interceptar el tráfico."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de diccionario en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque que intenta adivinar contraseñas probando todas las combinaciones posibles.",
+        "b) Un ataque que utiliza un diccionario de palabras para adivinar contraseñas.",
+        "c) Un ataque que redirige el tráfico de red a través de un atacante."
+      ],
+      "respuesta_correcta": "b) Un ataque que utiliza un diccionario de palabras para adivinar contraseñas."
+    },
+    {
+      "pregunta": "¿Qué es el cifrado asimétrico en ciberseguridad?",
+      "opciones": [
+        "a) Un tipo de cifrado que utiliza una sola clave para cifrar y descifrar datos.",
+        "b) Un tipo de cifrado que utiliza dos claves diferentes: una clave pública y una clave privada.",
+        "c) Un método para proteger datos mediante la conversión en un formato ilegible."
+      ],
+      "respuesta_correcta": "b) Un tipo de cifrado que utiliza dos claves diferentes: una clave pública y una clave privada."
+    },
+    {
+      "pregunta": "¿Qué es el cifrado de disco en ciberseguridad?",
+      "opciones": [
+        "a) Un método para cifrar datos en transmisión a través de una red.",
+        "b) Un método para cifrar un disco duro completo para proteger todos los datos almacenados en él.",
+        "c) Un método para ocultar la dirección IP de un servidor."
+      ],
+      "respuesta_correcta": "b) Un método para cifrar un disco duro completo para proteger todos los datos almacenados en él."
+    },
+    {
+      "pregunta": "¿Qué es el phishing de spear en ciberseguridad?",
+      "opciones": [
+        "a) Un tipo de phishing que utiliza un cebo en forma de lanza.",
+        "b) Un ataque que utiliza malware para cifrar archivos.",
+        "c) Un tipo de phishing dirigido a una víctima específica o grupo de víctimas."
+      ],
+      "respuesta_correcta": "c) Un tipo de phishing dirigido a una víctima específica o grupo de víctimas."
+    },
+    {
+      "pregunta": "¿Qué es un cortafuegos de próxima generación (NGFW) en ciberseguridad?",
+      "opciones": [
+        "a) Un software de análisis de vulnerabilidades.",
+        "b) Un tipo de firewall que combina funciones de filtrado de paquetes con inspección profunda de aplicaciones y contenido.",
+        "c) Un dispositivo que bloquea correos electrónicos no deseados."
+      ],
+      "respuesta_correcta": "b) Un tipo de firewall que combina funciones de filtrado de paquetes con inspección profunda de aplicaciones y contenido."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de ransomware 'extorsión' en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque de ransomware que no exige un rescate.",
+        "b) Un ataque de ransomware que extorsiona a la víctima exigiendo un pago para desbloquear los archivos.",
+        "c) Un ataque de ransomware que cifra los archivos sin pedir ningún pago."
+      ],
+      "respuesta_correcta": "b) Un ataque de ransomware que extorsiona a la víctima exigiendo un pago para desbloquear los archivos."
+    },
+    {
+      "pregunta": "¿Qué es el control de acceso basado en roles (RBAC) en ciberseguridad?",
+      "opciones": [
+        "a) Un método para limitar el acceso a recursos en función de la ubicación geográfica.",
+        "b) Un método para controlar el acceso a sistemas en función de la dirección IP.",
+        "c) Un método que concede permisos específicos a usuarios según su función o rol en una organización."
+      ],
+      "respuesta_correcta": "c) Un método que concede permisos específicos a usuarios según su función o rol en una organización."
+    },
+    {
+      "pregunta": "¿Qué es el análisis de tráfico de red en ciberseguridad?",
+      "opciones": [
+        "a) Un método para analizar el tráfico de vehículos en una carretera.",
+        "b) Un proceso para examinar el flujo de datos en una red en busca de actividad sospechosa o amenazas.",
+        "c) Un método para evaluar la velocidad de la conexión a Internet."
+      ],
+      "respuesta_correcta": "b) Un proceso para examinar el flujo de datos en una red en busca de actividad sospechosa o amenazas."
+    },
+    {
+      "pregunta": "¿Qué es un ataque de fuerza bruta en ciberseguridad?",
+      "opciones": [
+        "a) Un ataque que utiliza la fuerza física para dañar equipos informáticos.",
+        "b) Un ataque que intenta adivinar contraseñas probando todas las combinaciones posibles.",
+        "c) Un ataque que utiliza software malicioso para bloquear un sistema o red."
+      ],
+      "respuesta_correcta": "b) Un ataque que intenta adivinar contraseñas probando todas las combinaciones posibles."
+    },
+    {
+      "pregunta": "¿Qué es el principio de disponibilidad en ciberseguridad?",
+      "opciones": [
+        "a) Garantizar que los recursos informáticos estén siempre disponibles sin interrupciones.",
+        "b) Mantener una copia de seguridad en caso de pérdida de datos.",
+        "c) Asegurar que la información esté disponible solo para usuarios autorizados."
+      ],
+      "respuesta_correcta": "a) Garantizar que los recursos informáticos estén siempre disponibles sin interrupciones."
+    }
+  ]
+}

@@ -1,9 +1,6 @@
-import FontAwesome from '@expo/vector-icons/FontAwesome';
 import { Link, Tabs } from 'expo-router';
 import { Pressable, View, useColorScheme } from 'react-native';
 import { Image } from 'expo-image';
-
-import Colors from '../../constants/Colors';
 
 /**
  * You can explore the built-in icon families and icons on the web at https://icons.expo.fyi/
@@ -31,20 +28,31 @@ export default function TabLayout() {
       screenOptions={{
         tabBarActiveTintColor: '#E53E5C',
         tabBarInactiveTintColor: '#1F3F69',
-        tabBarStyle: { backgroundColor: '#1F3F69', height: 100, padding: 20 }
+        tabBarStyle: { backgroundColor: '#1F3F69', height: 80, padding: 20 }
       }}
     >
       <Tabs.Screen
+        // Name of the route to hide.
         name="index"
         options={{
+          headerStyle: { backgroundColor: '#000615' },
           title: '',
+          // This tab will no longer show up in the tab bar.
+          href: null
+        }}
+      />
+      <Tabs.Screen
+        name="course/index"
+        options={{
+          title: '',
+          headerStyle: { backgroundColor: '#000615' },
           tabBarIcon: ({ color }) => (
             <TabBarIcon
               image={require('../../assets/images/course.svg')}
               color={color}
             />
-          ),
-          headerRight: () => (
+          )
+          /*           headerRight: () => (
             <Link href="/modal" asChild>
               <Pressable>
                 {({ pressed }) => (
@@ -57,12 +65,11 @@ export default function TabLayout() {
                 )}
               </Pressable>
             </Link>
-          )
+          ) */
         }}
       />
       <Tabs.Screen
         name="forums"
-        
         options={{
           title: '',
           tabBarIcon: ({ color }) => (
@@ -95,6 +102,36 @@ export default function TabLayout() {
               color={color}
             />
           )
+        }}
+      />
+      <Tabs.Screen
+        // Name of the route to hide.
+        name="course/[lesson]"
+        options={{
+          headerStyle: { backgroundColor: '#000615', display: 'none' },
+          title: '',
+          // This tab will no longer show up in the tab bar.
+          href: null
+        }}
+      />
+      <Tabs.Screen
+        // Name of the route to hide.
+        name="course/[lesson]/index"
+        options={{
+          headerStyle: { backgroundColor: '#000615', display: 'none' },
+          title: '',
+          // This tab will no longer show up in the tab bar.
+          href: null
+        }}
+      />
+      <Tabs.Screen
+        // Name of the route to hide.
+        name="course/[lesson]/[question]/index"
+        options={{
+          headerStyle: { backgroundColor: '#000615' },
+          title: '',
+          // This tab will no longer show up in the tab bar.
+          href: null
         }}
       />
     </Tabs>

@@ -1,0 +1,408 @@
+{
+  "titulo": "Actualizaciones Continuas",
+  "texto": "",
+  "video": "",
+  "preguntas": [
+    {
+      "pregunta": "¿Por qué son importantes las actualizaciones de seguridad en ciberseguridad?",
+      "opciones": {
+        "a": "Para mejorar el rendimiento de la computadora.",
+        "b": "Para mantener los sistemas protegidos contra vulnerabilidades conocidas.",
+        "c": "Para aumentar la velocidad de la conexión a Internet.",
+        "d": "Para reducir el costo de mantenimiento de la infraestructura."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los riesgos de no instalar actualizaciones de seguridad?",
+      "opciones": {
+        "a": "Aumento de la velocidad de la computadora.",
+        "b": "Mejora de la privacidad en línea.",
+        "c": "Exposición a exploits y ataques cibernéticos.",
+        "d": "Reducción del ancho de banda de Internet."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué tipo de software se beneficia de las actualizaciones de seguridad?",
+      "opciones": {
+        "a": "Solo el software antivirus.",
+        "b": "Todos los tipos de software, incluyendo el sistema operativo, aplicaciones y antivirus.",
+        "c": "Solo las aplicaciones de redes sociales.",
+        "d": "Solo las aplicaciones de entretenimiento."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es un ejemplo de una amenaza que las actualizaciones de seguridad pueden ayudar a mitigar?",
+      "opciones": {
+        "a": "Cambio de contraseña.",
+        "b": "Phishing por correo electrónico.",
+        "c": "Solicitud de amistad en redes sociales.",
+        "d": "Mensajes de spam."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué puede ocurrir si no se actualiza un sistema operativo?",
+      "opciones": {
+        "a": "Mejora del rendimiento del sistema operativo.",
+        "b": "Aumento de la duración de la batería de un dispositivo móvil.",
+        "c": "Vulnerabilidades sin parches que pueden ser explotadas por atacantes.",
+        "d": "Mejora en la apariencia visual del sistema operativo."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de los parches de seguridad?",
+      "opciones": {
+        "a": "Mejorar la velocidad de la conexión a Internet.",
+        "b": "Mejorar la compatibilidad con otros programas.",
+        "c": "Cerrar vulnerabilidades conocidas en el software.",
+        "d": "Añadir nuevas características al software."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuándo es más probable que los atacantes cibernéticos aprovechen las vulnerabilidades no parcheadas?",
+      "opciones": {
+        "a": "Nunca, ya que los atacantes no se preocupan por las vulnerabilidades.",
+        "b": "En las noches de luna llena.",
+        "c": "Cuando las vulnerabilidades son públicamente conocidas y no se han parcheado.",
+        "d": "Cuando el sistema operativo se instala por primera vez."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué es importante mantener actualizados los plugins del navegador?",
+      "opciones": {
+        "a": "Mejorar la velocidad de navegación.",
+        "b": "Aumentar la cantidad de anuncios en línea.",
+        "c": "Proteger contra ataques a través de vulnerabilidades en el navegador.",
+        "d": "Mejorar la calidad de las imágenes en línea."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué recomendación se aplica a los dispositivos IoT (Internet de las Cosas) en términos de actualizaciones de seguridad?",
+      "opciones": {
+        "a": "No es necesario actualizar los dispositivos IoT.",
+        "b": "Actualizar solo una vez al año para no interrumpir el funcionamiento de los dispositivos.",
+        "c": "Mantener siempre los dispositivos IoT actualizados con las últimas correcciones de seguridad.",
+        "d": "Actualizar solo si se experimentan problemas con los dispositivos IoT."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los beneficios de aplicar actualizaciones de seguridad de manera regular?",
+      "opciones": {
+        "a": "Aumentar la velocidad de la computadora.",
+        "b": "Reducir el consumo de energía de los dispositivos móviles.",
+        "c": "Mantener la integridad y seguridad de los sistemas y datos.",
+        "d": "Aumentar el espacio de almacenamiento disponible en el disco duro."
+      },
+      "respuesta_correcta": "c"
+    },
+
+    {
+      "pregunta": "¿Por qué son esenciales las actualizaciones de seguridad en ciberseguridad?",
+      "opciones": {
+        "a": "Para incrementar el rendimiento de la computadora.",
+        "b": "Para mantener los sistemas resguardados contra vulnerabilidades conocidas.",
+        "c": "Para potenciar la velocidad de la conexión a Internet.",
+        "d": "Para reducir el costo de mantenimiento de la infraestructura."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los peligros de no instalar actualizaciones de seguridad?",
+      "opciones": {
+        "a": "Mejora de la privacidad en línea.",
+        "b": "Aumento de la exposición a exploits y ataques cibernéticos.",
+        "c": "Incremento de la velocidad de la computadora.",
+        "d": "Reducción del ancho de banda de Internet."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué tipo de software se beneficia de las actualizaciones de seguridad?",
+      "opciones": {
+        "a": "Todos los tipos de software, incluyendo el sistema operativo, aplicaciones y antivirus.",
+        "b": "Solo el software antivirus.",
+        "c": "Solo las aplicaciones de redes sociales.",
+        "d": "Solo las aplicaciones de entretenimiento."
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es un ejemplo de una amenaza que las actualizaciones de seguridad pueden ayudar a mitigar?",
+      "opciones": {
+        "a": "Cambio de contraseña.",
+        "b": "Ataques de phishing por correo electrónico.",
+        "c": "Solicitud de amistad en redes sociales.",
+        "d": "Mensajes de spam."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué puede ocurrir si no se actualiza un sistema operativo?",
+      "opciones": {
+        "a": "Mejora del rendimiento del sistema operativo.",
+        "b": "Aumento de la duración de la batería de un dispositivo móvil.",
+        "c": "Exposición a vulnerabilidades sin parches que pueden ser explotadas por atacantes.",
+        "d": "Mejora en la apariencia visual del sistema operativo."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de los parches de seguridad?",
+      "opciones": {
+        "a": "Mejorar la compatibilidad con otros programas.",
+        "b": "Mejorar la velocidad de la conexión a Internet.",
+        "c": "Cerrar vulnerabilidades conocidas en el software.",
+        "d": "Añadir nuevas características al software."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuándo es más probable que los atacantes cibernéticos aprovechen las vulnerabilidades no parcheadas?",
+      "opciones": {
+        "a": "Nunca, ya que los atacantes no se preocupan por las vulnerabilidades.",
+        "b": "En las noches de luna llena.",
+        "c": "Cuando las vulnerabilidades son públicamente conocidas y no se han parcheado.",
+        "d": "Cuando el sistema operativo se instala por primera vez."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué es importante mantener actualizados los plugins del navegador?",
+      "opciones": {
+        "a": "Mejorar la velocidad de navegación.",
+        "b": "Aumentar la cantidad de anuncios en línea.",
+        "c": "Proteger contra ataques a través de vulnerabilidades en el navegador.",
+        "d": "Mejorar la calidad de las imágenes en línea."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué recomendación se aplica a los dispositivos IoT (Internet de las Cosas) en términos de actualizaciones de seguridad?",
+      "opciones": {
+        "a": "No es necesario actualizar los dispositivos IoT.",
+        "b": "Actualizar solo una vez al año para no interrumpir el funcionamiento de los dispositivos.",
+        "c": "Mantener siempre los dispositivos IoT actualizados con las últimas correcciones de seguridad.",
+        "d": "Actualizar solo si se experimentan problemas con los dispositivos IoT."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los beneficios de aplicar actualizaciones de seguridad de manera regular?",
+      "opciones": {
+        "a": "Aumentar la velocidad de la computadora.",
+        "b": "Reducir el consumo de energía de los dispositivos móviles.",
+        "c": "Mantener la integridad y seguridad de los sistemas y datos.",
+        "d": "Aumentar el espacio de almacenamiento disponible en el disco duro."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué son cruciales las actualizaciones de seguridad en ciberseguridad?",
+      "opciones": {
+        "a": "Para optimizar el rendimiento de la computadora.",
+        "b": "Para salvaguardar los sistemas contra vulnerabilidades conocidas.",
+        "c": "Para incrementar la velocidad de la conexión a Internet.",
+        "d": "Para disminuir el costo de mantenimiento de la infraestructura."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los riesgos de no instalar parches de seguridad?",
+      "opciones": {
+        "a": "Reducción del ancho de banda de Internet.",
+        "b": "Aumento de la velocidad de la computadora.",
+        "c": "Mayor exposición a exploits y ataques cibernéticos.",
+        "d": "Mejora de la privacidad en línea."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué tipo de programas se benefician de las actualizaciones de seguridad?",
+      "opciones": {
+        "a": "Solo las aplicaciones de entretenimiento.",
+        "b": "Solo las aplicaciones de redes sociales.",
+        "c": "Solo el software antivirus.",
+        "d": "Todos los tipos de programas, incluyendo el sistema operativo, aplicaciones y antivirus."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es un ejemplo de una amenaza que las actualizaciones de seguridad pueden ayudar a prevenir?",
+      "opciones": {
+        "a": "Mensajes de spam.",
+        "b": "Cambio de contraseña.",
+        "c": "Ataques de phishing por correo electrónico.",
+        "d": "Solicitud de amistad en redes sociales."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué puede suceder si no se actualiza un sistema operativo?",
+      "opciones": {
+        "a": "Mejora en la apariencia visual del sistema operativo.",
+        "b": "Aumento de la duración de la batería de un dispositivo móvil.",
+        "c": "Exposición a vulnerabilidades sin correcciones que pueden ser explotadas por atacantes.",
+        "d": "Mejora del rendimiento del sistema operativo."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo de los parches de seguridad?",
+      "opciones": {
+        "a": "Mejorar la velocidad de la conexión a Internet.",
+        "b": "Añadir nuevas características al software.",
+        "c": "Cerrar vulnerabilidades conocidas en el software.",
+        "d": "Mejorar la compatibilidad con otros programas."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuándo es más probable que los atacantes cibernéticos aprovechen las vulnerabilidades no parcheadas?",
+      "opciones": {
+        "a": "Cuando el sistema operativo se instala por primera vez.",
+        "b": "En las noches de luna llena.",
+        "c": "Nunca, ya que los atacantes no se preocupan por las vulnerabilidades.",
+        "d": "Cuando las vulnerabilidades son públicamente conocidas y no se han parcheado."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Por qué es importante mantener actualizados los complementos del navegador?",
+      "opciones": {
+        "a": "Mejorar la calidad de las imágenes en línea.",
+        "b": "Aumentar la cantidad de anuncios en línea.",
+        "c": "Proteger contra ataques a través de vulnerabilidades en el navegador.",
+        "d": "Mejorar la velocidad de navegación."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué recomendación se aplica a los dispositivos IoT (Internet de las Cosas) en términos de actualizaciones de seguridad?",
+      "opciones": {
+        "a": "Actualizar solo una vez al año para no interrumpir el funcionamiento de los dispositivos.",
+        "b": "Actualizar solo si se experimentan problemas con los dispositivos IoT.",
+        "c": "Mantener siempre los dispositivos IoT actualizados con las últimas correcciones de seguridad.",
+        "d": "No es necesario actualizar los dispositivos IoT."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los beneficios de aplicar actualizaciones de seguridad de forma regular?",
+      "opciones": {
+        "a": "Aumentar el espacio de almacenamiento disponible en el disco duro.",
+        "b": "Aumentar la velocidad de la computadora.",
+        "c": "Reducir el consumo de energía de los dispositivos móviles.",
+        "d": "Mantener la integridad y seguridad de los sistemas y datos."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Por qué son vitales las actualizaciones de seguridad en ciberseguridad?",
+      "opciones": {
+        "a": "Para potenciar la velocidad de la conexión a Internet.",
+        "b": "Para mantener los sistemas asegurados contra vulnerabilidades conocidas.",
+        "c": "Para incrementar el rendimiento de la computadora.",
+        "d": "Para reducir el costo de mantenimiento de la infraestructura."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los peligros de no instalar parches de seguridad?",
+      "opciones": {
+        "a": "Reducción del ancho de banda de Internet.",
+        "b": "Mejora de la privacidad en línea.",
+        "c": "Mayor exposición a exploits y ataques cibernéticos.",
+        "d": "Aumento de la velocidad de la computadora."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué clase de software se beneficia de las actualizaciones de seguridad?",
+      "opciones": {
+        "a": "Solo las aplicaciones de entretenimiento.",
+        "b": "Solo las aplicaciones de redes sociales.",
+        "c": "Solo el software antivirus.",
+        "d": "Todos los tipos de software, incluyendo el sistema operativo, aplicaciones y antivirus."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Cuál es un ejemplo de una amenaza que las actualizaciones de seguridad pueden ayudar a contrarrestar?",
+      "opciones": {
+        "a": "Mensajes de spam.",
+        "b": "Cambio de contraseña.",
+        "c": "Ataques de phishing por correo electrónico.",
+        "d": "Solicitud de amistad en redes sociales."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué puede suceder si no se actualiza un sistema operativo?",
+      "opciones": {
+        "a": "Mejora en la apariencia visual del sistema operativo.",
+        "b": "Aumento de la duración de la batería de un dispositivo móvil.",
+        "c": "Exposición a vulnerabilidades sin correcciones que pueden ser explotadas por atacantes.",
+        "d": "Mejora del rendimiento del sistema operativo."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el objetivo de los parches de seguridad?",
+      "opciones": {
+        "a": "Mejorar la velocidad de la conexión a Internet.",
+        "b": "Añadir nuevas características al software.",
+        "c": "Cerrar vulnerabilidades conocidas en el software.",
+        "d": "Mejorar la compatibilidad con otros programas."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuándo es más probable que los atacantes cibernéticos aprovechen las vulnerabilidades no parcheadas?",
+      "opciones": {
+        "a": "Cuando el sistema operativo se instala por primera vez.",
+        "b": "En las noches de luna llena.",
+        "c": "Nunca, ya que los atacantes no se preocupan por las vulnerabilidades.",
+        "d": "Cuando las vulnerabilidades son públicamente conocidas y no se han parcheado."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Por qué es importante mantener actualizados los complementos del navegador?",
+      "opciones": {
+        "a": "Mejorar la calidad de las imágenes en línea.",
+        "b": "Aumentar la cantidad de anuncios en línea.",
+        "c": "Proteger contra ataques a través de vulnerabilidades en el navegador.",
+        "d": "Mejorar la velocidad de navegación."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué recomendación se aplica a los dispositivos IoT (Internet de las Cosas) en términos de actualizaciones de seguridad?",
+      "opciones": {
+        "a": "Actualizar solo una vez al año para no interrumpir el funcionamiento de los dispositivos.",
+        "b": "Actualizar solo si se experimentan problemas con los dispositivos IoT.",
+        "c": "Mantener siempre los dispositivos IoT actualizados con las últimas correcciones de seguridad.",
+        "d": "No es necesario actualizar los dispositivos IoT."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es uno de los beneficios de aplicar actualizaciones de seguridad de forma regular?",
+      "opciones": {
+        "a": "Aumentar el espacio de almacenamiento disponible en el disco duro.",
+        "b": "Aumentar la velocidad de la computadora.",
+        "c": "Reducir el consumo de energía de los dispositivos móviles.",
+        "d": "Mantener la integridad y seguridad de los sistemas y datos."
+      },
+      "respuesta_correcta": "d"
+    }
+  ]
+}
