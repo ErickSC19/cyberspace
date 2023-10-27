@@ -8,7 +8,8 @@ import generateOptions from '../../../../helpers/generateOptions';
 import { useCourse } from '../../../../context/CourseContext';
 
 export default function TabProfileScreen() {
-  const { questions, currentStreak, toggleAnswer, changeGrade, currentLesson } = useCourse();
+  const { questions, currentStreak, toggleAnswer, changeGrade, currentLesson } =
+    useCourse();
   const router = useRouter();
   const pathname = usePathname();
   const paths = pathname.split('/');
@@ -89,11 +90,15 @@ export default function TabProfileScreen() {
   }, []);
 
   useEffect(() => {
-    if (selectedId && selectedId === questions[Number(currPath)].respuesta_correcta) {
+    if (
+      selectedId &&
+      selectedId === questions[Number(currPath)].respuesta_correcta
+    ) {
       toggleAnswer(Number(currPath), true);
     } else {
       toggleAnswer(Number(currPath), false);
     }
+    changeGrade(paths[2], currentStreak);
   }, [selectedId]);
 
   if (Number(currPath) < 10 && radioButtons) {
@@ -122,36 +127,54 @@ export default function TabProfileScreen() {
             <TouchableOpacity
               className="flex-row gap-2 items-center"
               activeOpacity={0.6}
-              onPress={() =>
-                router.push(`/course/${paths[2]}/${Number(currPath) - 1}`)
-              }
+              onPress={() => router.push(`/course/${paths[2]}`)}
             >
               <Ionicons name="chevron-back-circle" size={48} color="#1F3F69" />
-              <Text className="text-xs">Pregunta Anterior</Text>
+              <Text className="text-xs">Salir</Text>
             </TouchableOpacity>
           )}
           <TouchableOpacity
             className="flex-row gap-2 items-center"
             activeOpacity={0.6}
+            disabled={!selectedId}
             onPress={() =>
               router.push(`/course/${paths[2]}/${Number(currPath) + 1}`)
             }
           >
             <Text className="text-xs">Siguiente Pregunta</Text>
-            <Ionicons name="chevron-forward-circle" size={48} color="#1F3F69" />
+            {
+              selectedId ? (
+                <Ionicons name="chevron-forward-circle" size={48} color="#1F3F69" />
+              ) : (
+                <Ionicons name="chevron-forward-circle" size={48} color="#555" />
+              )
+            }
           </TouchableOpacity>
         </View>
       </View>
     );
   } else {
-    changeGrade(paths[2], currentStreak);
     return (
       <View style={styles.container}>
         <Text style={styles.title}>Prueba de {currentLesson}</Text>
         <Text className="text-xl mr-auto my-5">Resultados:</Text>
-        <Text className="text-xl mr-auto ">{currentStreak < 8 ? 'Lo sentimos, pero tu calificación no es aprobatoria:' : '¡Felicidades! Obtuviste una calificación aprobatoria de:'}</Text>
-        <Text className={`text-4xl my-8 ${currentStreak < 8 ? 'text-red-500' : 'text-green-500'}`}>{currentStreak}/10</Text>
-        <Text className="text-xl mr-auto ">{currentStreak < 8 ? 'No te preocupes, puedes intentar de nuevo la prueba o tomarte un descanso.' : 'Puedes pasar al siguiente curso o tomar un descanso.'}</Text>
+        <Text className="text-xl mr-auto ">
+          {currentStreak < 8
+            ? 'Lo sentimos, pero tu calificación no es aprobatoria:'
+            : '¡Felicidades! Obtuviste una calificación aprobatoria de:'}
+        </Text>
+        <Text
+          className={`text-4xl my-8 ${
+            currentStreak < 8 ? 'text-red-500' : 'text-green-500'
+          }`}
+        >
+          {currentStreak}/10
+        </Text>
+        <Text className="text-xl mr-auto ">
+          {currentStreak < 8
+            ? 'No te preocupes, puedes intentar de nuevo la prueba o tomarte un descanso.'
+            : 'Puedes pasar al siguiente curso o tomar un descanso.'}
+        </Text>
         <View className="flex-row w-full mt-auto justify-between">
           <TouchableOpacity
             className="flex-row gap-2 items-center"

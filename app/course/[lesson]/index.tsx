@@ -32,12 +32,12 @@ interface StringByString {
 }
 
 const data: StringByString = {
-  "regularUpdates": regularUpdates,
-  "fundamentals": fundamentals,
-  "idSteal": idSteal,
-  "scams": onlineScams,
-  "idProtection": idProtection,
-  "firewall": firewall
+  regularUpdates: regularUpdates,
+  fundamentals: fundamentals,
+  idSteal: idSteal,
+  scams: onlineScams,
+  idProtection: idProtection,
+  firewall: firewall
 };
 
 export default function LessonScreen() {
@@ -45,17 +45,18 @@ export default function LessonScreen() {
   const router = useRouter();
   const pathname = usePathname();
   const paths = pathname.split('/');
+  const [videoFinished, setVideoFinished] = useState<boolean>(false);
   const [currPath, setCurrPath] = useState(paths[2]);
   //console.log(pathname);
   useEffect(() => {
     const selected = getRandomItemsFromArray(data[currPath].preguntas, 10);
-    setCurrentLesson(data[currPath].titulo)
+    setCurrentLesson(data[currPath].titulo);
     setQuestions(selected);
     setCurrentStreak(0);
-  }, [])
+  }, []);
 
   useEffect(() => {
-    if ((paths[1] === 'course') && paths[2] && (paths[2] !== currPath)) {
+    if (paths[1] === 'course' && paths[2] && paths[2] !== currPath) {
       // console.log(pathname);
       setCurrPath(paths[2]);
       const selected = getRandomItemsFromArray(data[currPath].preguntas, 10);
@@ -67,16 +68,24 @@ export default function LessonScreen() {
     <View style={styles.container}>
       <Text style={styles.title}>{data[currPath].titulo || ''}</Text>
       <View className="flex-1">
-        <VideoFrame videoId={`${data[currPath].video}`} />
+        <VideoFrame
+          videoId={`${data[currPath].video}`}
+          setFinished={setVideoFinished}
+        />
         <Text>{data[currPath].texto || ''}</Text>
       </View>
       <TouchableOpacity
         className="flex-row gap-2 items-center ml-auto"
         activeOpacity={0.6}
+        disabled={!videoFinished}
         onPress={() => router.push(`/course/${currPath}/0`)}
       >
         <Text>Hacer Prueba</Text>
-        <Ionicons name="chevron-forward-circle" size={32} color="#1F3F69" />
+        {videoFinished ? (
+          <Ionicons name="chevron-forward-circle" size={48} color="#1F3F69" />
+        ) : (
+          <Ionicons name="chevron-forward-circle" size={48} color="#555" />
+        )}
       </TouchableOpacity>
     </View>
   );
