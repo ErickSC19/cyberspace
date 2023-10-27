@@ -1,0 +1,655 @@
+{
+  "titulo": "Robo de identidad",
+  "texto": "",
+  "video": "ZHholA5Fiu0?si=X3F8Y8qOIOWeJToR",
+  "preguntas": [
+    {
+      "pregunta": "¿Qué es el robo de identidad?",
+      "opciones": {
+        "a":"Obtener información personal de manera legal.",
+        "b":"Obtener y usar la información personal de otra persona sin su consentimiento para cometer fraude u otros delitos.",
+        "c":"Utilizar una identidad falsa para proteger la privacidad."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones es verdadera sobre el robo de identidad?",
+      "opciones": {
+        "a":"Es un delito que rara vez afecta a las personas.",
+        "b":"Puede resultar en daños financieros y personales significativos.",
+        "c":"Es una práctica legal en muchos países."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes no es un ejemplo de información personal sensible que se puede robar en un caso de robo de identidad?",
+      "opciones": {
+        "a":"Número de teléfono.",
+        "b":"Dirección de correo electrónico.",
+        "c":"Número de seguro social."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es un método común que los ladrones de identidad utilizan para obtener información personal?",
+      "opciones": {
+        "a":"Llamar a la víctima y pedir la información personal directamente.",
+        "b":"Examinar los documentos de identidad de la víctima en su presencia.",
+        "c":"Phishing, donde envían correos electrónicos falsos o sitios web para engañar a la víctima y obtener información personal."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué es el skimming?",
+      "opciones": {
+        "a":"Un método para hacer ejercicio físico.",
+        "b":"Un método para obtener información de tarjetas de crédito o débito al escanear o copiar la banda magnética.",
+        "c":"Un método de meditación."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cómo se puede proteger a uno mismo contra el robo de identidad en línea?",
+      "opciones": {
+        "a":"Compartiendo contraseñas y datos personales en línea.",
+        "b":"Utilizando contraseñas fuertes y únicas para cuentas en línea.",
+        "c":"Ignorando correos electrónicos y mensajes sospechosos."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el bloqueo de crédito?",
+      "opciones": {
+        "a":"Un bloqueo temporal de la cuenta bancaria de una persona.",
+        "b":"Un mecanismo que permite a las personas bloquear su informe de crédito para prevenir el acceso no autorizado.",
+        "c":"Una forma de bloquear llamadas no deseadas en un teléfono móvil."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de billetera?",
+      "opciones": {
+        "a":"Un delito que implica robar billeteras vacías.",
+        "b":"Un delito que implica robar una billetera que contiene información personal y financiera.",
+        "c":"Un acto de perder una billetera en público."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es una medida preventiva común contra el robo de identidad?",
+      "opciones": {
+        "a":"No usar una cerradura en la puerta principal de la casa.",
+        "b":"Compartir contraseñas con amigos y familiares.",
+        "c":"Destruir documentos financieros y personales antes de desecharlos."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad infantil?",
+      "opciones": {
+        "a":"Un delito en el que los niños roban la identidad de adultos.",
+        "b":"Un delito en el que los adultos roban la identidad de niños.",
+        "c":"Un delito en el que se utiliza la información personal de un niño para cometer fraude."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué es un informe de crédito?",
+      "opciones": {
+        "a":"Un informe que detalla todas las compras realizadas con una tarjeta de crédito.",
+        "b":"Un informe que muestra el historial crediticio de una persona, incluyendo préstamos, deudas y pagos.",
+        "c":"Un informe que resume las actividades en las redes sociales de una persona."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es la autenticación de dos factores (2FA) y cómo puede ayudar a prevenir el robo de identidad?",
+      "opciones": {
+        "a":"Un método que requiere dos tarjetas de crédito para realizar compras en línea.",
+        "b":"Un método que utiliza dos contraseñas idénticas.",
+        "c":"Un método que combina dos elementos diferentes (generalmente algo que sabes y algo que tienes) para verificar la identidad del usuario, lo que hace más difícil que los delincuentes roben cuentas."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué es el robo de correo y cómo puede prevenirse?",
+      "opciones": {
+        "a":"El robo de correo es un término coloquial para el envío de spam.",
+        "b":"El robo de correo es el acto de robar buzones de correo físicos.",
+        "c":"El robo de correo implica robar correo o paquetes entregados en buzones, lo cual puede prevenirse utilizando buzones seguros o servicios de correo con seguimiento."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué es el robo de información biométrica y por qué es una preocupación en la ciberseguridad?",
+      "opciones": {
+        "a":"El robo de información biométrica se refiere al robo de plantas de energía eléctrica.",
+        "b":"El robo de información biométrica es el acto de robar datos biométricos, como huellas dactilares o reconocimiento facial, que se utilizan en sistemas de autenticación.",
+        "c":"El robo de información biométrica se refiere al robo de dispositivos electrónicos."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la importancia de revisar regularmente los informes de crédito en la prevención del robo de identidad?",
+      "opciones": {
+        "a":"No es necesario revisar los informes de crédito en absoluto.",
+        "b":"Revisar los informes de crédito ayuda a detectar y corregir de inmediato cualquier actividad sospechosa o no autorizada que pueda indicar un robo de identidad.",
+        "c":"Los informes de crédito solo deben revisarse una vez al año."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el bloqueo de crédito congelado y cómo difiere de un bloqueo de crédito regular?",
+      "opciones": {
+        "a":"El bloqueo de crédito congelado impide todo acceso a la cuenta de crédito de una persona, mientras que un bloqueo de crédito regular permite un acceso limitado.",
+        "b":"El bloqueo de crédito congelado no existe; es lo mismo que un bloqueo de crédito regular.",
+        "c":"El bloqueo de crédito congelado solo se aplica a personas menores de 18 años."
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad fiscal y cómo afecta a las personas?",
+      "opciones": {
+        "a":"El robo de identidad fiscal es un tipo de robo de identidad que solo afecta a las personas con altos ingresos.",
+        "b":"El robo de identidad fiscal implica el uso de la información personal de una persona para presentar declaraciones de impuestos fraudulentas y reclamar reembolsos ilegítimos.",
+        "c":"El robo de identidad fiscal es un delito que solo afecta a empresas y no a individuos."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad médica y cuáles son sus posibles consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad médica es un término obsoleto y no se aplica en la actualidad.",
+        "b":"El robo de identidad médica implica el uso de la información personal de una persona para obtener servicios médicos o medicamentos bajo su nombre.",
+        "c":"El robo de identidad médica es un delito sin consecuencias significativas."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad de redes sociales y cómo puede prevenirse?",
+      "opciones": {
+        "a":"El robo de identidad de redes sociales es un término que no tiene relevancia en ciberseguridad.",
+        "b":"El robo de identidad de redes sociales implica el acceso no autorizado a las cuentas de redes sociales de una persona y la suplantación de su identidad en línea.",
+        "c":"El robo de identidad de redes sociales es un delito que solo afecta a celebridades."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad gubernamental y cuáles son sus posibles consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad gubernamental implica el uso de la información personal de una persona para obtener una identificación falsa emitida por el gobierno.",
+        "b":"El robo de identidad gubernamental implica el acceso no autorizado a sistemas y bases de datos gubernamentales para cambiar registros de identidad.",
+        "c":"El robo de identidad gubernamental es un delito sin consecuencias legales."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es la ingeniería social en el contexto del robo de identidad?",
+      "opciones": {
+        "a":"La ingeniería social es un término que no tiene relevancia en ciberseguridad.",
+        "b":"La ingeniería social implica el uso de técnicas psicológicas y manipulación para engañar a las personas y obtener información personal o acceso a sistemas.",
+        "c":"La ingeniería social se refiere a la construcción de infraestructura física, como puentes y carreteras."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones es cierta sobre el robo de identidad en línea?",
+      "opciones": {
+        "a":"El robo de identidad en línea es imposible de prevenir.",
+        "b":"El robo de identidad en línea es un problema que ya no existe en la actualidad.",
+        "c":"El robo de identidad en línea es una amenaza continua y evolutiva, y las medidas de seguridad en línea son esenciales para prevenirlo."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué es el monitoreo de crédito y cómo puede ayudar a las víctimas de robo de identidad?",
+      "opciones": {
+        "a":"El monitoreo de crédito implica verificar la información de crédito de amigos y familiares.",
+        "b":"El monitoreo de crédito es un servicio que ayuda a las víctimas a detectar actividad no autorizada en sus cuentas y a tomar medidas para resolver problemas de robo de identidad.",
+        "c":"El monitoreo de crédito es un servicio que permite a las personas obtener un historial crediticio gratuito."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el fraude de tarjeta de crédito y cómo se relaciona con el robo de identidad?",
+      "opciones": {
+        "a":"El fraude de tarjeta de crédito es un acto de usar una tarjeta de crédito sin permiso, y no está relacionado con el robo de identidad.",
+        "b":"El fraude de tarjeta de crédito implica el uso de la información de una tarjeta de crédito robada, que a menudo se obtiene a través del robo de identidad.",
+        "c":"El fraude de tarjeta de crédito solo ocurre cuando una tarjeta se extravía o se daña."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el bloqueo de crédito temporal y cómo funciona?",
+      "opciones": {
+        "a":"El bloqueo de crédito temporal impide permanentemente el acceso a la cuenta de crédito de una persona.",
+        "b":"El bloqueo de crédito temporal permite a una persona bloquear temporalmente el acceso a su informe de crédito, lo que dificulta la apertura de nuevas cuentas de crédito a su nombre.",
+        "c":"El bloqueo de crédito temporal solo se aplica a personas menores de 18 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad financiera y cómo afecta a las víctimas?",
+      "opciones": {
+        "a":"El robo de identidad financiera es un delito sin consecuencias financieras para las víctimas.",
+        "b":"El robo de identidad financiera implica el uso de la información personal de una persona para cometer fraudes financieros, como abrir cuentas bancarias o tarjetas de crédito a su nombre.",
+        "c":"El robo de identidad financiera solo afecta a instituciones financieras, no a individuos."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el bloqueo de crédito permanente y cuándo se utiliza?",
+      "opciones": {
+        "a":"El bloqueo de crédito permanente es una medida que se utiliza de manera temporal para proteger la identidad de una persona.",
+        "b":"El bloqueo de crédito permanente es una medida que se utiliza de manera indefinida para bloquear todo acceso a la cuenta de crédito de una persona.",
+        "c":"El bloqueo de crédito permanente solo se utiliza en casos extremos de robo de identidad."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad criminal y cuáles son sus posibles consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad criminal es un delito sin consecuencias legales.",
+        "b":"El robo de identidad criminal implica el uso de la información personal de una persona para cometer delitos graves, como fraude, robo o falsificación.",
+        "c":"El robo de identidad criminal solo afecta a instituciones gubernamentales."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad en el lugar de trabajo y cuáles son sus posibles consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad en el lugar de trabajo es un término obsoleto.",
+        "b":"El robo de identidad en el lugar de trabajo implica la suplantación de la identidad de un empleado para cometer fraude o robo en el entorno laboral.",
+        "c":"El robo de identidad en el lugar de trabajo solo afecta a empleadores, no a empleados."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es el papel de las agencias de informes crediticios en la prevención del robo de identidad?",
+      "opciones": {
+        "a":"Las agencias de informes crediticios no tienen ningún papel en la prevención del robo de identidad.",
+        "b":"Las agencias de informes crediticios recopilan información crediticia de las víctimas de robo de identidad.",
+        "c":"Las agencias de informes crediticios proporcionan informes de crédito que ayudan a las personas a detectar y corregir actividades no autorizadas en sus cuentas."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad de menores y por qué es una preocupación?",
+      "opciones": {
+        "a":"El robo de identidad de menores no es un problema en la actualidad.",
+        "b":"El robo de identidad de menores implica el uso de la información personal de niños para cometer fraudes u obtener servicios en su nombre.",
+        "c":"El robo de identidad de menores solo afecta a niños mayores de 18 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad de la seguridad social y cuáles son sus consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad de la seguridad social es un término obsoleto.",
+        "b":"El robo de identidad de la seguridad social implica el uso de los números de seguro social de personas para cometer fraudes, como solicitar beneficios gubernamentales ilegítimos.",
+        "c":"El robo de identidad de la seguridad social solo afecta a personas jubiladas."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es una medida de seguridad efectiva para protegerse contra el robo de identidad en línea?",
+      "opciones": {
+        "a":"Compartir contraseñas con amigos en línea.",
+        "b":"Utilizar contraseñas fuertes y únicas para cuentas en línea.",
+        "c":"Ignorar completamente las medidas de seguridad en línea."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el bloqueo de crédito de niños y cuándo es útil?",
+      "opciones": {
+        "a":"El bloqueo de crédito de niños no es una medida de seguridad real.",
+        "b":"El bloqueo de crédito de niños es útil para proteger la información de crédito de los menores y prevenir el robo de identidad de menores.",
+        "c":"El bloqueo de crédito de niños solo se aplica a adolescentes mayores de 16 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es el papel de la autenticación de dos factores (2FA) en la protección contra el robo de identidad en línea?",
+      "opciones": {
+        "a":"La autenticación de dos factores no tiene ningún valor en la protección contra el robo de identidad en línea.",
+        "b":"La autenticación de dos factores agrega una capa adicional de seguridad al requerir dos métodos de verificación de la identidad del usuario, lo que dificulta que los delincuentes roben cuentas en línea.",
+        "c":"La autenticación de dos factores solo se aplica a personas mayores de 60 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad en línea y por qué es una amenaza?",
+      "opciones": {
+        "a":"El robo de identidad en línea es un término obsoleto.",
+        "b":"El robo de identidad en línea implica la suplantación de la identidad de una persona en línea y puede resultar en la apropiación no autorizada de cuentas y datos personales.",
+        "c":"El robo de identidad en línea solo afecta a empresas, no a individuos."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad de empleados y cuáles son sus posibles consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad de empleados es un delito que solo afecta a empleadores.",
+        "b":"El robo de identidad de empleados implica el uso de la información personal de empleados para cometer fraudes en el lugar de trabajo, como el robo de salario o la obtención de beneficios ilegítimos.",
+        "c":"El robo de identidad de empleados es un problema que no existe en la actualidad."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad de celebridades y por qué es un objetivo común?",
+      "opciones": {
+        "a":"El robo de identidad de celebridades es un delito raro y poco común.",
+        "b":"El robo de identidad de celebridades implica la suplantación de la identidad de personas famosas para cometer fraude o difamar su nombre.",
+        "c":"El robo de identidad de celebridades no es un problema en la actualidad."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad corporativa y cuáles son sus consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad corporativa es un problema que solo afecta a empresas pequeñas.",
+        "b":"El robo de identidad corporativa implica la suplantación de la identidad de empresas y puede resultar en pérdidas financieras y daño a la reputación.",
+        "c":"El robo de identidad corporativa solo afecta a organizaciones sin fines de lucro."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad de salud y cuáles son sus posibles consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad de salud implica la suplantación de la identidad de profesionales de la salud.",
+        "b":"El robo de identidad de salud implica el uso de la información médica de una persona para obtener tratamientos o medicamentos bajo su nombre.",
+        "c":"El robo de identidad de salud es un delito sin consecuencias graves."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad en el ámbito académico y por qué es una preocupación?",
+      "opciones": {
+        "a":"El robo de identidad en el ámbito académico es un delito que no tiene consecuencias graves.",
+        "b":"El robo de identidad en el ámbito académico implica el uso de la información personal de estudiantes para obtener calificaciones o títulos académicos bajo su nombre.",
+        "c":"El robo de identidad en el ámbito académico solo afecta a instituciones educativas."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el fraude de identidad y cómo difiere del robo de identidad?",
+      "opciones": {
+        "a":"El fraude de identidad es un término obsoleto.",
+        "b":"El fraude de identidad implica el uso de información falsa o alterada para cometer fraude, mientras que el robo de identidad implica el uso de información personal de otra persona sin su consentimiento.",
+        "c":"El fraude de identidad y el robo de identidad son sinónimos y se utilizan indistintamente."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es la autenticación multifactor (MFA) y cómo puede ayudar a prevenir el robo de identidad?",
+      "opciones": {
+        "a":"La autenticación multifactor (MFA) no es una medida de seguridad real.",
+        "b":"La autenticación multifactor (MFA) requiere que los usuarios proporcionen múltiples formas de verificación de su identidad, lo que agrega una capa adicional de seguridad para proteger las cuentas en línea.",
+        "c":"La autenticación multifactor (MFA) es una medida de seguridad que solo se aplica a empresas."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la importancia de informar el robo de identidad a las autoridades y a las agencias de informes crediticios?",
+      "opciones": {
+        "a":"No es necesario informar el robo de identidad a las autoridades o agencias de informes crediticios.",
+        "b":"Informar el robo de identidad a las autoridades es importante para que tomen medidas legales, y notificar a las agencias de informes crediticios es fundamental para corregir el historial crediticio de la víctima.",
+        "c":"Informar el robo de identidad solo es importante si se es una celebridad."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones es cierta sobre la protección de la identidad de menores?",
+      "opciones": {
+        "a":"La identidad de menores no necesita protección, ya que no tienen información valiosa.",
+        "b":"La protección de la identidad de menores es importante, ya que son vulnerables al robo de identidad, y los padres y tutores deben tomar medidas para proteger su información personal.",
+        "c":"La protección de la identidad de menores es responsabilidad exclusiva de las instituciones educativas."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad por suplantación y cómo puede evitarse?",
+      "opciones": {
+        "a":"El robo de identidad por suplantación es un acto que solo ocurre en películas o novelas.",
+        "b":"El robo de identidad por suplantación implica la suplantación de la identidad de una persona para cometer fraudes o delitos en su nombre, y puede prevenirse utilizando contraseñas seguras y la educación sobre seguridad en línea.",
+        "c":"El robo de identidad por suplantación solo afecta a celebridades."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es el papel de las contraseñas en la protección contra el robo de identidad?",
+      "opciones": {
+        "a":"Las contraseñas no son importantes en la protección contra el robo de identidad.",
+        "b":"Las contraseñas son una medida de seguridad esencial y deben ser fuertes y únicas para cada cuenta en línea.",
+        "c":"Las contraseñas son responsabilidad exclusiva de las empresas, no de los individuos."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad en el ámbito financiero y por qué es un problema?",
+      "opciones": {
+        "a":"El robo de identidad en el ámbito financiero solo afecta a bancos y no a individuos.",
+        "b":"El robo de identidad en el ámbito financiero implica el uso de la información personal de una persona para cometer fraudes financieros, como la apertura de cuentas bancarias o tarjetas de crédito a su nombre.",
+        "c":"El robo de identidad en el ámbito financiero no es un problema en la actualidad."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad por correo electrónico y cómo puede prevenirse?",
+      "opciones": {
+        "a":"El robo de identidad por correo electrónico no es una amenaza real.",
+        "b":"El robo de identidad por correo electrónico implica la suplantación de la identidad de una persona a través de correos electrónicos fraudulentos, y puede prevenirse siendo cauteloso con los correos electrónicos no solicitados y evitando hacer clic en enlaces sospechosos.",
+        "c":"El robo de identidad por correo electrónico solo afecta a personas mayores de 60 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de phishing y cuáles son sus señales de advertencia?",
+      "opciones": {
+        "a":"El robo de identidad a través de phishing es un término obsoleto.",
+        "b":"El robo de identidad a través de phishing implica engañar a las personas para que revelen su información personal a través de correos electrónicos o sitios web falsos. Las señales de advertencia incluyen correos electrónicos no solicitados, enlaces sospechosos y solicitudes de información confidencial.",
+        "c":"El robo de identidad a través de phishing solo afecta a instituciones gubernamentales."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de malware y cómo puede evitarse?",
+      "opciones": {
+        "a":"El robo de identidad a través de malware no es una amenaza real.",
+        "b":"El robo de identidad a través de malware implica la instalación de software malicioso en el dispositivo de una persona para robar información personal. Puede evitarse utilizando software de seguridad y manteniendo el software actualizado.",
+        "c":"El robo de identidad a través de malware solo afecta a celebridades."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de redes Wi-Fi públicas y cómo puede protegerse?",
+      "opciones": {
+        "a":"El robo de identidad a través de redes Wi-Fi públicas no es una preocupación.",
+        "b":"El robo de identidad a través de redes Wi-Fi públicas implica el riesgo de que los delincuentes intercepten la información transmitida a través de redes públicas no seguras. Puede protegerse utilizando redes privadas virtuales (VPN) y evitando acceder a información confidencial en redes públicas.",
+        "c":"El robo de identidad a través de redes Wi-Fi públicas solo afecta a personas mayores de 50 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de redes sociales y cuáles son sus riesgos?",
+      "opciones": {
+        "a":"El robo de identidad a través de redes sociales no es un problema.",
+        "b":"El robo de identidad a través de redes sociales implica que los delincuentes obtienen información personal a través de perfiles de redes sociales y pueden usarla para cometer fraudes, acoso o suplantación de identidad. Los riesgos incluyen el robo de información personal y la invasión de la privacidad.",
+        "c":"El robo de identidad a través de redes sociales solo afecta a personas menores de 30 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de llamadas telefónicas y cuáles son sus señales de advertencia?",
+      "opciones": {
+        "a":"El robo de identidad a través de llamadas telefónicas no es una amenaza real.",
+        "b":"El robo de identidad a través de llamadas telefónicas implica que los delincuentes se hacen pasar por instituciones legítimas para obtener información personal o financiera de las víctimas. Las señales de advertencia incluyen llamadas no solicitadas, presión para proporcionar información personal y amenazas.",
+        "c":"El robo de identidad a través de llamadas telefónicas solo afecta a personas mayores de 70 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de búsquedas en la basura y cómo puede prevenirse?",
+      "opciones": {
+        "a":"El robo de identidad a través de búsquedas en la basura no es una amenaza real.",
+        "b":"El robo de identidad a través de búsquedas en la basura implica que los delincuentes rebuscan en la basura de las personas para encontrar información personal, como estados de cuenta y facturas. Puede prevenirse mediante la destrucción segura de documentos personales y la protección de la basura.",
+        "c":"El robo de identidad a través de búsquedas en la basura solo afecta a personas menores de 40 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de registros públicos y cómo puede prevenirse?",
+      "opciones": {
+        "a":"El robo de identidad a través de registros públicos no es una amenaza real.",
+        "b":"El robo de identidad a través de registros públicos implica que los delincuentes acceden a registros públicos para obtener información personal de las víctimas. Puede prevenirse limitando la exposición de información personal en registros públicos y configurando medidas de privacidad.",
+        "c":"El robo de identidad a través de registros públicos solo afecta a personas mayores de 50 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de cambios de dirección y cuáles son sus señales de advertencia?",
+      "opciones": {
+        "a":"El robo de identidad a través de cambios de dirección no es una amenaza real.",
+        "b":"El robo de identidad a través de cambios de dirección implica que los delincuentes modifican la dirección de correspondencia de la víctima para obtener información confidencial. Las señales de advertencia incluyen la recepción de correspondencia no solicitada y la falta de correspondencia esperada.",
+        "c":"El robo de identidad a través de cambios de dirección solo afecta a personas menores de 30 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de hurtos y pérdida de documentos y cómo puede prevenirse?",
+      "opciones": {
+        "a":"El robo de identidad a través de hurtos y pérdida de documentos no es una amenaza real.",
+        "b":"El robo de identidad a través de hurtos y pérdida de documentos implica que los delincuentes obtienen información personal a través de documentos físicos robados o perdidos, como billeteras o documentos de identidad. Puede prevenirse manteniendo seguros los documentos y reportando inmediatamente los robos o pérdidas.",
+        "c":"El robo de identidad a través de hurtos y pérdida de documentos solo afecta a personas mayores de 60 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de registros médicos y cuáles son sus consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad a través de registros médicos no es una amenaza real.",
+        "b":"El robo de identidad a través de registros médicos implica que los delincuentes acceden a registros médicos para obtener información personal de las víctimas. Puede resultar en la obtención de tratamientos médicos bajo el nombre de la víctima y poner en peligro su salud y seguridad.",
+        "c":"El robo de identidad a través de registros médicos solo afecta a personas mayores de 70 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de documentos gubernamentales y cuáles son sus consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad a través de documentos gubernamentales no es una amenaza real.",
+        "b":"El robo de identidad a través de documentos gubernamentales implica que los delincuentes obtienen información personal de documentos emitidos por el gobierno, como pasaportes o licencias de conducir. Puede resultar en la suplantación de la identidad de la víctima en asuntos gubernamentales o internacionales.",
+        "c":"El robo de identidad a través de documentos gubernamentales solo afecta a personas mayores de 50 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de tarjetas de crédito y cuáles son sus consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad a través de tarjetas de crédito no es una amenaza real.",
+        "b":"El robo de identidad a través de tarjetas de crédito implica el uso no autorizado de las tarjetas de crédito de la víctima para realizar compras o transacciones fraudulentas. Puede resultar en pérdidas financieras y daño al historial crediticio.",
+        "c":"El robo de identidad a través de tarjetas de crédito solo afecta a personas menores de 40 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de cuentas bancarias y cuáles son sus consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad a través de cuentas bancarias no es una amenaza real.",
+        "b":"El robo de identidad a través de cuentas bancarias implica el acceso no autorizado a las cuentas bancarias de la víctima para realizar transacciones fraudulentas o robar fondos. Puede resultar en pérdidas financieras y problemas con las instituciones bancarias.",
+        "c":"El robo de identidad a través de cuentas bancarias solo afecta a personas mayores de 50 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de impuestos y cuáles son sus consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad a través de impuestos no es una amenaza real.",
+        "b":"El robo de identidad a través de impuestos implica el uso de la información personal de la víctima para presentar declaraciones de impuestos falsas y reclamar reembolsos fraudulentos. Puede resultar en problemas fiscales y retrasos en la obtención de reembolsos legítimos.",
+        "c":"El robo de identidad a través de impuestos solo afecta a personas menores de 30 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de préstamos y créditos y cuáles son sus consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad a través de préstamos y créditos no es una amenaza real.",
+        "b":"El robo de identidad a través de préstamos y créditos implica que los delincuentes obtienen préstamos o líneas de crédito en nombre de la víctima sin su consentimiento. Puede resultar en deudas financieras y daño al historial crediticio.",
+        "c":"El robo de identidad a través de préstamos y créditos solo afecta a personas mayores de 60 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de beneficios sociales y cuáles son sus consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad a través de beneficios sociales no es una amenaza real.",
+        "b":"El robo de identidad a través de beneficios sociales implica el uso de la información personal de la víctima para obtener beneficios gubernamentales o asistencia social de manera fraudulenta. Puede resultar en problemas legales y la pérdida de beneficios legítimos.",
+        "c":"El robo de identidad a través de beneficios sociales solo afecta a personas menores de 40 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de empleo y cuáles son sus consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad a través de empleo no es una amenaza real.",
+        "b":"El robo de identidad a través de empleo implica que los delincuentes utilizan la información personal de la víctima para obtener empleo de manera fraudulenta. Puede resultar en problemas legales y afectar la reputación de la víctima en el lugar de trabajo.",
+        "c":"El robo de identidad a través de empleo solo afecta a celebridades."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de celebridades y cuáles son sus consecuencias?",
+      "opciones": {
+        "a":"El robo de identidad a través de celebridades no es una amenaza real.",
+        "b":"El robo de identidad a través de celebridades implica la suplantación de la identidad de personas famosas para cometer fraude o difamar su nombre. Puede resultar en daño a la reputación de la celebridad y pérdidas financieras.",
+        "c":"El robo de identidad a través de celebridades solo afecta a personas mayores de 60 años."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es el papel de las agencias de informes crediticios en la prevención del robo de identidad?",
+      "opciones": {
+        "a":"Las agencias de informes crediticios no tienen ninguna función en la prevención del robo de identidad.",
+        "b":"Las agencias de informes crediticios juegan un papel importante al monitorear y reportar actividades crediticias sospechosas, lo que puede ayudar a detectar y prevenir el robo de identidad.",
+        "c":"Las agencias de informes crediticios solo se ocupan de calificaciones de crédito perfectas."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es la autenticación de dos factores (2FA) y cómo puede ayudar en la protección contra el robo de identidad?",
+      "opciones": {
+        "a":"La autenticación de dos factores (2FA) es una medida insegura.",
+        "b":"La autenticación de dos factores (2FA) requiere que los usuarios proporcionen dos formas de verificación de su identidad al acceder a cuentas en línea, lo que agrega una capa adicional de seguridad para proteger la identidad de las personas.",
+        "c":"La autenticación de dos factores (2FA) solo es relevante en aplicaciones de redes sociales."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué es el robo de identidad a través de la dark web y cómo puede prevenirse?",
+      "opciones": {
+        "a":"El robo de identidad a través de la dark web no es una preocupación real.",
+        "b":"El robo de identidad a través de la dark web implica la venta de información personal robada en mercados clandestinos en línea. Puede prevenirse protegiendo la información personal y evitando compartir datos sensibles en línea.",
+        "c":"El robo de identidad a través de la dark web solo afecta a empresas, no a individuos."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la importancia de revisar regularmente los informes de crédito para prevenir el robo de identidad?",
+      "opciones": {
+        "a":"Revisar los informes de crédito es una tarea innecesaria y no tiene impacto en la prevención del robo de identidad.",
+        "b":"Revisar regularmente los informes de crédito permite a las personas detectar actividades crediticias sospechosas o no autorizadas, lo que ayuda a identificar el robo de identidad a tiempo y tomar medidas para detenerlo.",
+        "c":"Solo las personas mayores de 50 años deben revisar sus informes de crédito."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué medidas pueden tomar las personas para proteger su información personal en línea?",
+      "opciones": {
+        "a":"No hay medidas efectivas para proteger la información personal en línea.",
+        "b":"Las personas pueden proteger su información personal en línea utilizando contraseñas fuertes y únicas, habilitando la autenticación de dos factores (2FA), evitando compartir información sensible en redes sociales y siendo cautelosas con correos electrónicos y sitios web sospechosos.",
+        "c":"Proteger la información personal en línea es responsabilidad exclusiva de las empresas, no de los individuos."
+      },
+      "respuesta_correcta": "b"
+    }
+  ]
+}
