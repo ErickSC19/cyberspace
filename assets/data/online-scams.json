@@ -11,7 +11,7 @@
         "c":"El propósito principal del video es proporcionar recetas de cocina.",
         "d":"El propósito principal del video es enseñar a pescar en un lago."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cómo se describe el phishing en el video?",
@@ -21,7 +21,7 @@
         "c":"El phishing se describe como una actividad inofensiva que no afecta a nadie.",
         "d":"El phishing se describe como el proceso de enviar saludos amigables por correo electrónico."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Por qué se compara el phishing con la pesca en el video?",
@@ -31,7 +31,7 @@
         "c":"El video compara el phishing con la pesca porque ambas actividades son ilegales.",
         "d":"El video compara el phishing con la pesca porque ambas actividades son muy populares en todo el mundo."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Qué tipo de información personal buscan obtener los estafadores a través del phishing?",
@@ -41,7 +41,7 @@
         "c":"Los estafadores buscan obtener información personal como números de teléfono de famosos.",
         "d":"Los estafadores buscan obtener información personal como historias de vida de personas."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cuál es una de las mejores formas de protegerse contra el phishing según el video?",
@@ -51,7 +51,7 @@
         "c":"La mejor forma de protegerse contra el phishing es hacer clic en todos los enlaces que recibes.",
         "d":"La mejor forma de protegerse contra el phishing es no preocuparse por ello."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Qué caracteriza a las estafas de soporte técnico mencionadas en el video?",
@@ -61,7 +61,7 @@
         "c":"Las estafas de soporte técnico se caracterizan por resolver los problemas de las computadoras sin costo alguno.",
         "d":"Las estafas de soporte técnico se caracterizan por solicitar tarjetas de regalo como forma de pago."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿A quiénes suelen estar dirigidas principalmente estas estafas?",
@@ -71,7 +71,7 @@
         "c":"Estas estafas suelen estar dirigidas principalmente a expertos en tecnología.",
         "d":"Estas estafas suelen estar dirigidas principalmente a los políticos."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cómo suelen desarrollarse estas estafas?",
@@ -81,7 +81,7 @@
         "c":"Estas estafas se desarrollan cuando la víctima recibe una llamada o correo para invitarla a una fiesta.",
         "d":"Estas estafas se desarrollan cuando la víctima recibe una llamada o correo para contarle una historia inventada."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Qué consejo se ofrece en el video para evitar estas estafas?",
@@ -91,7 +91,7 @@
         "c":"Para evitar estas estafas, el video aconseja dar acceso remoto a cualquier persona que lo solicite.",
         "d":"Para evitar estas estafas, el video aconseja comprar productos y servicios ofrecidos por los estafadores."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Qué información personal o pagos nunca solicitan los empleados de soporte técnico legítimos?",
@@ -101,7 +101,7 @@
         "c":"Los empleados de soporte técnico legítimos solo solicitan datos personales sin pagos.",
         "d":"Los empleados de soporte técnico legítimos solo solicitan pagos sin datos personales."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿A quiénes suelen estar dirigidos los fraudes románticos mencionados en el video?",
@@ -111,7 +111,7 @@
         "c":"Los fraudes románticos suelen estar dirigidos a cualquier persona sin importar la edad.",
         "d":"Los fraudes románticos suelen estar dirigidos exclusivamente a personas mayores."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿En qué se basan los estafadores que realizan fraudes románticos?",
@@ -121,7 +121,7 @@
         "c":"Los estafadores que realizan fraudes románticos se basan en el uso de lenguaje ofensivo hacia sus víctimas.",
         "d":"Los estafadores que realizan fraudes románticos se basan en escribir poesía y cartas de amor a sus víctimas."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Dónde es común encontrar este tipo de perfiles falsos según el video?",
@@ -131,7 +131,7 @@
         "c":"Según el video, es común encontrar este tipo de perfiles falsos en restaurantes y cafeterías.",
         "d":"Según el video, es común encontrar este tipo de perfiles falsos en la luna."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cuál es la mejor manera de protegerse de los fraudes románticos?",
@@ -141,7 +141,7 @@
         "c":"La mejor manera de protegerse de los fraudes románticos es enviar dinero a cualquier persona que lo solicite.",
         "d":"La mejor manera de protegerse de los fraudes románticos es compartir información personal sin cuestionarla."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Qué advertencia general se ofrece en el video sobre las relaciones en línea?",
@@ -151,7 +151,7 @@
         "c":"El video advierte que todas las personas en línea son confiables y no hay razón para dudar de nadie.",
         "d":"El video advierte que todas las personas en línea son personas famosas y exitosas."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Qué se entiende por 'ecommerce' según el video?",
@@ -161,7 +161,7 @@
         "c":"\"Ecommerce\" se refiere a deportes extremos.",
         "d":"\"Ecommerce\" se refiere a actividades culinarias."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cuántos tipos de estafas de ecommerce se mencionan en el video?",
@@ -171,7 +171,7 @@
         "c":"Se mencionan cuatro tipos de estafas de ecommerce.",
         "d":"No se mencionan tipos de estafas de ecommerce en el video."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cómo se describen los primeros tipos de estafas de ecommerce?",
@@ -181,7 +181,7 @@
         "c":"El primer tipo de estafa de ecommerce se refiere a las tiendas de ropa.",
         "d":"El primer tipo de estafa de ecommerce se refiere a las tiendas de alimentos."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Dónde suelen enfocarse las estafas del segundo tipo mencionado en el video?",
@@ -191,7 +191,7 @@
         "c":"Las estafas del segundo tipo suelen darse en ferias y festivales.",
         "d":"Las estafas del segundo tipo suelen darse en bibliotecas públicas."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Qué se recomienda hacer para evitar este tipo de estafas de ecommerce?",
@@ -201,7 +201,7 @@
         "c":"Se recomienda comprar de sitios web que no ofrezcan ninguna garantía.",
         "d":"Se recomienda comprar de sitios web que no tengan opiniones o reseñas de otros compradores."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Por qué se aconseja revisar siempre las reseñas del vendedor antes de comprar?",
@@ -211,7 +211,7 @@
         "c":"Se aconseja revisar las reseñas del vendedor para conocer historias de vida de las personas.",
         "d":"Se aconseja revisar las reseñas del vendedor para conocer opiniones sobre películas."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cuál es un ejemplo de bienes de bajo precio mencionados en el video?",
@@ -221,7 +221,7 @@
         "c":"Un ejemplo de bienes de bajo precio mencionado en el video son las mansiones.",
         "d":"Un ejemplo de bienes de bajo precio mencionado en el video son los yates."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Por qué se menciona la importancia de un servicio al cliente capaz de reembolsar el dinero en el video?",
@@ -231,7 +231,7 @@
         "c":"Se menciona porque es importante tener un servicio al cliente que solo reembolsa dinero a veces.",
         "d":"Se menciona porque es importante tener un servicio al cliente que solo reembolsa el dinero en efectivo."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Qué tipo de productos se mencionan como sujetos a estafas en sitios establecidos?",
@@ -241,7 +241,7 @@
         "c":"Se mencionan productos que no se pueden comprar en línea.",
         "d":"Se mencionan productos que son de precio muy alto."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Por qué se aconseja revisar las peores reseñas antes de comprar?",
@@ -251,7 +251,7 @@
         "c":"Se aconseja revisar las peores reseñas para buscar consejos de belleza.",
         "d":"Se aconseja revisar las peores reseñas para encontrar recetas de cocina."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cuál es uno de los objetivos principales de este video?",
@@ -261,7 +261,7 @@
         "c":"Uno de los objetivos principales de este video es enseñar a pescar en un lago.",
         "d":"Uno de los objetivos principales de este video es proporcionar recetas de cocina."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿De qué manera se explica el concepto de phishing en el video?",
@@ -271,7 +271,7 @@
         "c":"En el video, el phishing se describe como el proceso de enviar saludos amigables por correo electrónico.",
         "d":"En el video, el phishing se describe como una técnica de pesca en el océano."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Por qué se establece una analogía entre el phishing y la pesca en el video?",
@@ -281,7 +281,7 @@
         "c":"La analogía entre el phishing y la pesca se establece porque ambas actividades son ilegales.",
         "d":"La analogía entre el phishing y la pesca se establece porque ambas actividades son muy populares en todo el mundo."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Qué tipo de datos personales buscan los estafadores obtener mediante el phishing?",
@@ -291,7 +291,7 @@
         "c":"Los estafadores buscan obtener información personal, como números de teléfono de famosos.",
         "d":"Los estafadores buscan obtener información personal, como historias de vida de personas."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "Según el video, ¿cuál es una de las estrategias más efectivas para protegerse contra el phishing?",
@@ -301,7 +301,7 @@
         "c":"La mejor forma de protegerse contra el phishing es hacer clic en todos los enlaces que recibes.",
         "d":"La mejor forma de protegerse contra el phishing es no preocuparse por ello."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cuáles son las características distintivas de las estafas de soporte técnico mencionadas en el video?",
@@ -311,7 +311,7 @@
         "c":"Las estafas de soporte técnico se caracterizan por proporcionar soporte técnico legítimo.",
         "d":"Las estafas de soporte técnico se caracterizan por ofrecer regalos a cambio de servicios técnicos."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿A quiénes suelen estar dirigidas primordialmente este tipo de estafas?",
@@ -321,7 +321,7 @@
         "c":"Estas estafas suelen estar dirigidas principalmente a celebridades.",
         "d":"Estas estafas suelen estar dirigidas principalmente a niños pequeños."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cómo suelen llevarse a cabo estas estafas según el video?",
@@ -331,7 +331,7 @@
         "c":"Estas estafas se llevan a cabo mediante el envío de mensajes de texto.",
         "d":"Estas estafas se llevan a cabo mediante el envío de flores a las víctimas."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Qué recomendación se ofrece en el video para evitar caer víctima de estas estafas?",
@@ -341,7 +341,7 @@
         "c":"Para evitar estas estafas, el video aconseja hacer clic en todos los enlaces que recibes de desconocidos.",
         "d":"Para evitar estas estafas, el video aconseja no prestar atención a las advertencias sobre problemas de seguridad en tu computadora."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cuál es la información o los pagos que nunca solicitan los empleados de soporte técnico legítimos?",
@@ -351,7 +351,7 @@
         "c":"Los empleados de soporte técnico legítimos solo solicitan nombres.",
         "d":"Los empleados de soporte técnico legítimos solo solicitan direcciones de correo electrónico."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cuál es la definición de 'ecommerce' según el video?",
@@ -361,7 +361,7 @@
         "c":"\"Ecommerce\" se refiere a deportes extremos.",
         "d":"\"Ecommerce\" se refiere a actividades culinarias."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cuántos tipos de estafas relacionadas con el ecommerce se mencionan en el video?",
@@ -371,7 +371,7 @@
         "c":"En el video se mencionan cuatro tipos de estafas relacionadas con el ecommerce.",
         "d":"No se mencionan tipos de estafas de ecommerce en el video."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cómo se describe el primer tipo de estafas relacionadas con el ecommerce?",
@@ -381,7 +381,7 @@
         "c":"El primer tipo de estafa de ecommerce se refiere a las tiendas de alimentos.",
         "d":"El primer tipo de estafa de ecommerce se refiere a las tiendas de electrónica."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿En qué suelen concentrarse las estafas del segundo tipo mencionadas en el video?",
@@ -391,7 +391,7 @@
         "c":"Las estafas del segundo tipo tienden a enfocarse en vender animales exóticos.",
         "d":"Las estafas del segundo tipo tienden a enfocarse en vender autos usados."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Qué se recomienda hacer para prevenir este tipo de estafas relacionadas con el ecommerce?",
@@ -401,7 +401,7 @@
         "c":"Se recomienda comprar solo en sitios web que no tengan servicio al cliente.",
         "d":"Se recomienda comprar en sitios web sin verificar su autenticidad."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Por qué se aconseja examinar siempre las reseñas del vendedor antes de hacer una compra?",
@@ -411,7 +411,7 @@
         "c":"Se aconseja revisar las reseñas del vendedor para conocer opiniones sobre películas.",
         "d":"Se aconseja revisar las reseñas del vendedor para descubrir consejos de moda."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cuál es un ejemplo de productos de bajo costo mencionado en el video?",
@@ -421,7 +421,7 @@
         "c":"Un ejemplo de productos de bajo costo mencionado en el video son las joyas caras.",
         "d":"Un ejemplo de productos de bajo costo mencionado en el video son las mansiones costosas."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Por qué se destaca la importancia de contar con un servicio al cliente que pueda reembolsar el dinero en el video?",
@@ -431,7 +431,7 @@
         "c":"Se menciona la importancia de un servicio al cliente que solo reembolsa dinero a veces.",
         "d":"Se menciona la importancia de un servicio al cliente que solo reembolsa el dinero en efectivo."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Qué tipo de productos se mencionan como susceptibles de estafas en sitios web establecidos?",
@@ -441,7 +441,7 @@
         "c":"Se mencionan productos que no se pueden comprar en línea.",
         "d":"Se mencionan productos que son de precio muy alto."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Por qué se aconseja revisar las reseñas menos favorables antes de hacer una compra?",
@@ -451,7 +451,7 @@
         "c":"Se aconseja revisar las reseñas menos favorables para buscar consejos de belleza.",
         "d":"Se aconseja revisar las reseñas menos favorables para encontrar recetas de cocina."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Quiénes son los principales objetivos de los fraudes románticos según el video?",
@@ -461,7 +461,7 @@
         "c":"Los principales objetivos de los fraudes románticos son niños pequeños.",
         "d":"Los principales objetivos de los fraudes románticos son las personas mayores."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿En qué se basan los estafadores que realizan fraudes románticos?",
@@ -471,7 +471,7 @@
         "c":"Los estafadores que realizan fraudes románticos se basan en la pesca.",
         "d":"Los estafadores que realizan fraudes románticos se basan en la elaboración de recetas de cocina."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Dónde es común encontrar perfiles falsos de fraudes románticos, según el video?",
@@ -481,7 +481,7 @@
         "c":"Según el video, es común encontrar perfiles falsos de fraudes románticos en foros de tecnología.",
         "d":"Según el video, es común encontrar perfiles falsos de fraudes románticos en revistas de moda."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Cuál es una recomendación clave para protegerse de los fraudes románticos según el video?",
@@ -491,7 +491,7 @@
         "c":"Una recomendación clave para protegerse de los fraudes románticos es dar dinero a cualquier persona en línea que lo solicite.",
         "d":"Una recomendación clave para protegerse de los fraudes románticos es ignorar por completo a las personas que conozcas en línea."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     },
     {
       "pregunta": "¿Qué se entiende por 'ecommerce' según el video?",
@@ -501,7 +501,7 @@
         "c":"Según el video, 'ecommerce' se refiere a actividades culinarias.",
         "d":"Según el video, 'ecommerce' se refiere a actividades al aire libre."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "c"
     }
   ]
 }

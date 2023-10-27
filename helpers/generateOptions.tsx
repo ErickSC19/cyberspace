@@ -1,5 +1,6 @@
 import { useMemo } from 'react';
 import { RadioButtonProps } from 'react-native-radio-buttons-group';
+import getRandomItemsFromArray from './getRandomFromArray';
 
 export default function generateOptions(question: {
   pregunta: string;
@@ -45,6 +46,7 @@ export default function generateOptions(question: {
         containerStyle: { marginTop: 20 }
       }
     ];
+    console.log(getRandomItemsFromArray(radioButtons, 4).length);
 
     return radioButtons;
   } else {
@@ -73,7 +75,8 @@ export default function generateOptions(question: {
         containerStyle: { marginTop: 20 }
       }
     ];
-
+    console.log(getRandomItemsFromArray(radioButtons, 3).length);
+    
     return radioButtons;
   }
 }

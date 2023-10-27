@@ -11,7 +11,7 @@
         "c": "Un firewall es un término en música para describir una actuación en vivo.",
         "d": "Un firewall es un tipo de automóvil deportivo de lujo."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es la función principal de un firewall?",
@@ -21,7 +21,7 @@
         "c": "La función principal de un firewall es tostar pan.",
         "d": "La función principal de un firewall es tocar música en una red."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuáles son los dos tipos principales de firewalls y en qué se diferencian?",
@@ -31,7 +31,7 @@
         "c": "Los dos tipos principales de firewalls son marítimos y terrestres. La diferencia es su ubicación.",
         "d": "Los dos tipos principales de firewalls son de papel y cartón. La diferencia es el material."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cómo determina un firewall qué tráfico permitir y cuál bloquear?",
@@ -41,7 +41,7 @@
         "c": "Los firewalls toman decisiones al azar sobre qué tráfico permitir y cuál bloquear.",
         "d": "Los firewalls leen la mente de las personas para determinar qué tráfico bloquear."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es el significado de la palabra 'firewall' en inglés y por qué se le da ese nombre?",
@@ -51,7 +51,7 @@
         "c": "'Firewall' en inglés significa 'pantalla de humo'. La metáfora se refiere a ocultar el tráfico de red.",
         "d": "'Firewall' en inglés significa 'pantalla de viento'. La metáfora se refiere a la velocidad del tráfico de datos."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Puedes dar una metáfora diferente para visualizar cómo funciona un firewall?",
@@ -61,7 +61,7 @@
         "c": "Un firewall se puede visualizar como un semáforo que cambia de verde a rojo para permitir o bloquear el tráfico de red.",
         "d": "Un firewall se puede visualizar como un libro de reglas de tráfico que decide cuándo permitir o bloquear el flujo de datos."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué tipo de información revisa un firewall al analizar el tráfico de red?",
@@ -71,7 +71,7 @@
         "c": "Un firewall analiza información como los resultados deportivos y las noticias del clima.",
         "d": "Un firewall analiza información como los horóscopos y las tendencias de moda."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Por qué es importante usar un firewall en una red doméstica?",
@@ -81,7 +81,7 @@
         "c": "Usar un firewall en una red doméstica afecta negativamente la velocidad de internet.",
         "d": "Usar un firewall en una red doméstica hace que los dispositivos no funcionen correctamente."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué sucede si un paquete de datos no cumple con las reglas del firewall?",
@@ -91,7 +91,7 @@
         "c": "Si un paquete de datos no cumple con las reglas del firewall, el firewall lo imprime y lo envía por correo postal.",
         "d": "Si un paquete de datos no cumple con las reglas del firewall, el firewall lo convierte en un emoji y lo envía por mensaje de texto."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es la ventaja de usar tanto firewalls de hardware como firewalls de software en una red?",
@@ -101,7 +101,7 @@
         "c": "Es mejor utilizar solo firewalls de hardware en una red.",
         "d": "Es mejor utilizar solo firewalls de software en una red."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es la diferencia entre un firewall de filtrado de paquetes y un firewall de inspección de estado?",
@@ -111,7 +111,7 @@
         "c": "Un firewall de filtrado de paquetes es más caro que un firewall de inspección de estado.",
         "d": "Un firewall de inspección de estado es más antiguo que un firewall de filtrado de paquetes."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué es una 'regla' en el contexto de un firewall y cómo se utiliza para controlar el tráfico?",
@@ -121,7 +121,7 @@
         "c": "Una regla es un documento de identificación.",
         "d": "Una regla es un tipo de alimento."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es la importancia de mantener las reglas de un firewall actualizadas?",
@@ -131,7 +131,7 @@
         "c": "Mantener las reglas de un firewall actualizadas disminuye la seguridad.",
         "d": "Mantener las reglas de un firewall actualizadas aumenta el riesgo de ataques cibernéticos."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Puede un firewall prevenir todos los posibles ataques cibernéticos?",
@@ -141,7 +141,7 @@
         "c": "Un firewall es la única medida de seguridad necesaria para proteger una red.",
         "d": "Ninguna medida de seguridad puede prevenir los ataques cibernéticos."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué recomendaciones se pueden dar para configurar adecuadamente un firewall en una red empresarial?",
@@ -151,7 +151,7 @@
         "c": "La configuración de un firewall en una red empresarial no es importante.",
         "d": "La configuración de un firewall en una red empresarial debe ser un secreto."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué es un firewall de filtro de paquetes y en qué capa del modelo OSI opera?",
@@ -161,7 +161,7 @@
         "c": "Un firewall de filtro de paquetes opera en la capa de aplicación (capa 7) del modelo OSI y se encarga de la interfaz de usuario del firewall.",
         "d": "Un firewall de filtro de paquetes opera en la capa física (capa 1) del modelo OSI y se encarga de la conectividad física de la red."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es la función principal de un firewall de filtro de paquetes?",
@@ -171,7 +171,7 @@
         "c": "La función principal de un firewall de filtro de paquetes es clasificar paquetes de regalos en una red.",
         "d": "La función principal de un firewall de filtro de paquetes es organizar paquetes de mensajes en una red."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿En qué se basa un firewall de filtro de paquetes para tomar decisiones de filtrado de tráfico?",
@@ -181,7 +181,7 @@
         "c": "Un firewall de filtro de paquetes se basa en el pronóstico del tiempo para tomar decisiones de filtrado de tráfico.",
         "d": "Un firewall de filtro de paquetes se basa en la ubicación geográfica de los paquetes para tomar decisiones de filtrado de tráfico."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es la principal característica distintiva de un firewall de estado en comparación con un firewall de filtro de paquetes?",
@@ -191,7 +191,7 @@
         "c": "La principal característica distintiva de un firewall de estado es que organiza paquetes de regalos en una red.",
         "d": "La principal característica distintiva de un firewall de estado es que clasifica paquetes de mensajes en una red."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cómo funciona un firewall de estado para tomar decisiones de filtrado de paquetes?",
@@ -201,7 +201,7 @@
         "c": "Un firewall de estado funciona tomando decisiones de filtrado de paquetes basadas en la hora del día.",
         "d": "Un firewall de estado funciona tomando decisiones de filtrado de paquetes basadas en la temperatura ambiente."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuáles son las ventajas de utilizar un firewall de estado en comparación con un firewall de filtro de paquetes básico?",
@@ -211,7 +211,7 @@
         "c": "Un firewall de estado es menos efectivo que un firewall de filtro de paquetes básico.",
         "d": "Un firewall de estado es más económico que un firewall de filtro de paquetes básico."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿En qué situaciones sería preferible utilizar un firewall de estado en lugar de un firewall de filtro de paquetes?",
@@ -221,7 +221,7 @@
         "c": "Un firewall de estado es preferible en situaciones donde la seguridad no es una preocupación.",
         "d": "Un firewall de filtro de paquetes es siempre la mejor opción sin importar la situación."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué protocolos de red suelen ser inspeccionados por un firewall de estado?",
@@ -231,7 +231,7 @@
         "c": "Los firewall de estado solo inspeccionan protocolos de aplicaciones específicos.",
         "d": "Los firewall de estado solo inspeccionan protocolos de capa de red."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es el nivel de complejidad típico de la configuración de un firewall de estado en comparación con un firewall de filtro de paquetes?",
@@ -241,7 +241,7 @@
         "c": "La configuración de ambos tipos de firewall tiene la misma complejidad.",
         "d": "La configuración de un firewall de estado es innecesaria en comparación con un firewall de filtro de paquetes."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Pueden utilizarse ambos tipos de firewalls, de filtro de paquetes y de estado, juntos en una red para una protección más completa?",
@@ -251,7 +251,7 @@
         "c": "El uso de dos tipos de firewalls en una red causaría conflictos y no proporcionaría una protección adicional.",
         "d": "Utilizar dos tipos de firewalls en una red es una práctica poco segura."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿En qué capa del modelo OSI opera un firewall de aplicación?",
@@ -261,7 +261,7 @@
         "c": "Un firewall de aplicación opera en la capa de transporte (capa 4) del modelo OSI.",
         "d": "Un firewall de aplicación opera en la capa física (capa 1) del modelo OSI."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es el enfoque principal de un firewall de aplicación en comparación con otros tipos de firewalls?",
@@ -271,7 +271,7 @@
         "c": "Un firewall de aplicación se enfoca en proporcionar conectividad en lugar de seguridad.",
         "d": "Un firewall de aplicación se enfoca en organizar el tráfico de red."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué ventajas ofrece un firewall de aplicación en términos de seguridad?",
@@ -281,7 +281,7 @@
         "c": "Un firewall de aplicación reduce la seguridad de la red.",
         "d": "Un firewall de aplicación solo se enfoca en el rendimiento de la red."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuáles son algunos ejemplos de aplicaciones y protocolos específicos que un firewall de aplicación puede controlar?",
@@ -291,7 +291,7 @@
         "c": "Un firewall de aplicación no puede controlar ningún tipo de aplicación o protocolo.",
         "d": "Un firewall de aplicación solo puede controlar protocolos, no aplicaciones específicas."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué es un firewall proxy y cómo difiere de otros tipos de firewalls?",
@@ -301,7 +301,7 @@
         "c": "Un firewall proxy es un tipo de firewall que no requiere configuración.",
         "d": "Un firewall proxy no difiere de otros tipos de firewalls."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es la principal ventaja de un firewall proxy en términos de seguridad?",
@@ -311,7 +311,7 @@
         "c": "La principal ventaja de un firewall proxy es su capacidad para filtrar paquetes a nivel de red.",
         "d": "Un firewall proxy es menos seguro que otros tipos de firewalls."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué desventaja podría tener un firewall proxy en comparación con otros tipos de firewalls?",
@@ -321,7 +321,7 @@
         "c": "Un firewall proxy es más eficiente en cuanto al rendimiento que otros tipos de firewalls.",
         "d": "La desventaja de un firewall proxy es su falta de control en el tráfico de aplicaciones."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿En qué situaciones sería preferible utilizar un firewall de aplicación en lugar de otros tipos de firewalls?",
@@ -331,7 +331,7 @@
         "c": "Un firewall de aplicación es preferible cuando se necesita un alto rendimiento de red sin preocuparse por la seguridad.",
         "d": "Un firewall de aplicación es preferible en redes domésticas, pero no en redes empresariales."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Puede un firewall de aplicación detectar y prevenir ataques específicos de aplicaciones, como los ataques de inyección SQL?",
@@ -341,7 +341,7 @@
         "c": "Un firewall de aplicación solo puede detectar ataques genéricos, pero no ataques específicos de aplicaciones.",
         "d": "La detección de ataques de inyección SQL no es una función de un firewall de aplicación."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Es común utilizar firewalls proxy y firewalls de aplicación juntos para lograr una mayor seguridad en la red?",
@@ -351,7 +351,7 @@
         "c": "La combinación de firewalls proxy y firewalls de aplicación puede causar conflictos y es ineficaz.",
         "d": "Los firewalls proxy y de aplicación son incompatibles y no pueden utilizarse juntos."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué es un firewall en el contexto de seguridad informática?",
@@ -361,7 +361,7 @@
         "c": "Un firewall es un programa de software que se utiliza para mejorar la velocidad de conexión a internet.",
         "d": "Un firewall es una herramienta de seguridad utilizada para proteger datos en dispositivos móviles."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es la función principal de un firewall?",
@@ -371,7 +371,7 @@
         "c": "La función principal de un firewall es rastrear la ubicación geográfica de los usuarios en una red.",
         "d": "La función principal de un firewall es realizar copias de seguridad de los datos en una red."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿En qué capas del modelo OSI pueden operar los firewalls?",
@@ -381,7 +381,7 @@
         "c": "Los firewalls solo pueden operar en la capa de enlace de datos del modelo OSI.",
         "d": "Los firewalls solo pueden operar en la capa de aplicación del modelo OSI."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué tipo de información utiliza un firewall para tomar decisiones de filtrado de tráfico?",
@@ -391,7 +391,7 @@
         "c": "Los firewalls solo utilizan información de contenido de paquetes para tomar decisiones de filtrado de tráfico.",
         "d": "Los firewalls solo utilizan información de puertos para tomar decisiones de filtrado de tráfico."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuáles son los dos tipos principales de firewalls y en qué se diferencian?",
@@ -401,7 +401,7 @@
         "c": "Los dos tipos principales de firewalls son los firewalls de hardware y los firewalls de software. Los primeros son dispositivos físicos, mientras que los segundos son programas que se ejecutan en computadoras.",
         "d": "Los dos tipos principales de firewalls son los firewalls de red y los firewalls de sistema. Los primeros protegen redes, mientras que los segundos protegen sistemas individuales."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué es un firewall de aplicación y en qué capa del modelo OSI opera?",
@@ -411,7 +411,7 @@
         "c": "Un firewall de aplicación opera en la capa de red (capa 3) del modelo OSI.",
         "d": "Un firewall de aplicación opera en la capa física (capa 1) del modelo OSI."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué ventaja ofrece un firewall de aplicación en términos de seguridad?",
@@ -421,7 +421,7 @@
         "c": "Un firewall de aplicación es menos seguro que otros tipos de firewalls.",
         "d": "Un firewall de aplicación solo se enfoca en mejorar el rendimiento de la red."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué es un firewall proxy y cómo se diferencia de otros tipos de firewalls?",
@@ -431,7 +431,7 @@
         "c": "Un firewall proxy no difiere de otros tipos de firewalls.",
         "d": "Un firewall proxy es un tipo de firewall que no requiere configuración."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué tipos de amenazas pueden prevenir los firewalls?",
@@ -441,7 +441,7 @@
         "c": "Los firewalls solo pueden prevenir ataques de malware y nada más.",
         "d": "Los firewalls solo previenen amenazas en redes domésticas, no en redes empresariales."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es la importancia de mantener actualizadas las reglas de un firewall?",
@@ -451,7 +451,7 @@
         "c": "Las reglas del firewall no requieren actualizaciones.",
         "d": "Mantener las reglas del firewall actualizadas solo es relevante en redes pequeñas."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Por qué es común utilizar firewalls de hardware y software juntos en una red?",
@@ -461,7 +461,7 @@
         "c": "La combinación de firewalls de hardware y software puede causar conflictos y no es efectiva.",
         "d": "Los firewalls de hardware y software son incompatibles y no pueden utilizarse juntos."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es el propósito de un firewall de aplicación en una red empresarial?",
@@ -471,7 +471,7 @@
         "c": "Un firewall de aplicación en una red empresarial se utiliza para administrar las conexiones de red.",
         "d": "El propósito de un firewall de aplicación es reducir la velocidad de la red empresarial."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Qué medidas de seguridad adicionales se pueden implementar junto con un firewall para fortalecer la seguridad de la red?",
@@ -481,7 +481,7 @@
         "c": "Las actualizaciones de software son suficientes para garantizar la seguridad de la red.",
         "d": "La capacitación en seguridad no es necesaria si se utiliza un firewall."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuál es el concepto principal de un firewall proxy?",
@@ -491,7 +491,7 @@
         "c": "Un firewall proxy no tiene un concepto principal.",
         "d": "Un firewall proxy es una versión menos segura de un firewall de filtro de paquetes."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     },
     {
       "pregunta": "¿Cuándo debería una organización considerar la implementación de un firewall de estado en lugar de un firewall de filtro de paquetes?",
@@ -501,7 +501,7 @@
         "c": "Un firewall de filtro de paquetes es siempre la mejor opción, independientemente de la situación de la organización.",
         "d": "Un firewall de estado solo es necesario en redes domésticas, no en redes empresariales."
       },
-      "respuesta_correcta": ""
+      "respuesta_correcta": "d"
     }
   ]
 }
