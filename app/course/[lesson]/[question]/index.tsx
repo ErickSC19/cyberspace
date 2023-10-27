@@ -1,8 +1,20 @@
 import { StyleSheet } from 'react-native';
-
-import { Text, View } from '../../../../../components/Themed';
+import { usePathname, useRouter } from 'expo-router';
+import { useEffect, useState } from 'react';
+import { Text, View } from '../../../../components/Themed';
 
 export default function TabProfileScreen() {
+  const router = useRouter();
+  const pathname = usePathname();
+  const paths = pathname.split('/');
+  const [currPath, setCurrPath] = useState(paths[3]);
+  console.log(pathname);
+  useEffect(() => {
+    if (paths[3] && paths[3] !== currPath) {
+      setCurrPath(paths[3])
+    }
+  }, [pathname])
+
   return (
     <View style={styles.container}>
       <Text style={styles.title}>question</Text>

@@ -1,6 +1,6 @@
 import { StyleSheet } from 'react-native';
 import { Image } from 'expo-image';
-import { Text, View } from '../../components/Themed';
+import { Text, View } from '../components/Themed';
 import { useRouter } from 'expo-router';
 
 export default function TabOneScreen() {
@@ -10,7 +10,7 @@ export default function TabOneScreen() {
     <View style={styles.container}>
       <Image
         style={{ height: "30%", width: "50%" }}
-        source={require("../../assets/images/logo.svg")}
+        source={require("../assets/images/logo.svg")}
         contentFit="contain"
         transition={0}
       />

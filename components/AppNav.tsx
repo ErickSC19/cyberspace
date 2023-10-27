@@ -21,7 +21,7 @@ export default function AppNav({ children }: any) {
         >
           <Image
             style={{ width: 36, height: 36 }}
-            source={require('../../assets/images/course.svg')}
+            source={require('../assets/images/course.svg')}
             contentFit="contain"
             transition={0}
           />
@@ -37,7 +37,7 @@ export default function AppNav({ children }: any) {
         >
           <Image
             style={{ width: 36, height: 36 }}
-            source={require('../../assets/images/forums.svg')}
+            source={require('../assets/images/forums.svg')}
             contentFit="contain"
             transition={0}
           />
@@ -53,7 +53,7 @@ export default function AppNav({ children }: any) {
         >
           <Image
             style={{ width: 36, height: 36 }}
-            source={require('../../assets/images/news.svg')}
+            source={require('../assets/images/news.svg')}
             contentFit="contain"
             transition={0}
           />
@@ -69,7 +69,7 @@ export default function AppNav({ children }: any) {
         >
           <Image
             style={{ width: 36, height: 36 }}
-            source={require('../../assets/images/profile.svg')}
+            source={require('../assets/images/profile.svg')}
             contentFit="contain"
             transition={0}
           />
@@ -84,7 +84,7 @@ const styles = StyleSheet.create({
     flex: 1,
     width: '100%',
     alignItems: 'center',
-    paddingTop: 50,
+    paddingTop: 10,
     backgroundColor: '#000615'
   },
   buttonsContainer: {

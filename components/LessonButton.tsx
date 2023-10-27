@@ -18,7 +18,7 @@ export function LessonButton(props: {
     <Pressable
       style={currStyle}
       onPressIn={() => setCurrStyle(styles.pressed)}
-      onPress={() => router.push(`/(tabs)/course/${props.lid}`)}
+      onPress={() => router.push(`/course/${props.lid}`)}
       onPressOut={() => setCurrStyle(styles.container)}
     >
       <Image
