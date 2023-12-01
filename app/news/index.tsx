@@ -15,6 +15,7 @@ interface NewsObj {
 export default function TabNewsScreen() {
   const router = useRouter();
   const [loading, setLoading] = useState<boolean>(true);
+  const [error, setError] = useState<unknown>();
   const [news, setNews] = useState<Array<NewsObj>>([]);
 
   useEffect(() => {
@@ -23,11 +24,12 @@ export default function TabNewsScreen() {
       try {
         if (process.env.EXPO_PUBLIC_API_URL) {
           const res = await axios.get(process.env.EXPO_PUBLIC_API_URL);
-          //console.log(res.data.results);
+          console.log(res.data.results);
           setNews(res.data.results);
         }
       } catch (error) {
         console.log(error);
+        setError(error);
       }
       setLoading(false);
       //setNews(res);
@@ -48,11 +50,12 @@ export default function TabNewsScreen() {
       ) : (
         <ScrollView>
           <View className="gap-4 pt-3">
+            {error ? <Text> error: {error.toString()}</Text>: <></>}
             {news.length > 0 &&
               news.map((nw) => (
                 <Fragment key={'f-' + nw.Resultado}>
                   <View key={nw.Resultado} className="text-base pl-4">
-                    <A style={styles.link} href="https://google.com">
+                    <A style={styles.link} href={nw.Enlace}>
                       {nw.Título}
                     </A>
                     <Text>{nw['Texto relacionado con el tema']}</Text>

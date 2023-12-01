@@ -112,9 +112,7 @@ export default function TabProfileScreen() {
         </Text>
         {radioButtons && (
           <ScrollView className="flex-1 w-full">
-            <View className='justify-center'>
-
-            </View>
+            <View className="justify-center"></View>
             <RadioGroup
               radioButtons={radioButtons}
               onPress={setSelectedId}
@@ -142,17 +140,23 @@ export default function TabProfileScreen() {
             activeOpacity={0.6}
             disabled={!selectedId}
             onPress={() =>
-              router.push(`/course/${paths[2]}/${Number(currPath) + 1}`)
+              Number(currPath) === 9
+                ? router.replace(`/course/${paths[2]}/${Number(currPath) + 1}`)
+                : router.push(`/course/${paths[2]}/${Number(currPath) + 1}`)
             }
           >
-            <Text className="text-xs">Siguiente Pregunta</Text>
-            {
-              selectedId ? (
-                <Ionicons name="chevron-forward-circle" size={48} color="#1F3F69" />
-              ) : (
-                <Ionicons name="chevron-forward-circle" size={48} color="#555" />
-              )
-            }
+            <Text className="text-xs">
+              {Number(currPath) === 9 ? 'Terminar test' : 'Siguiente Pregunta'}{' '}
+            </Text>
+            {selectedId ? (
+              <Ionicons
+                name="chevron-forward-circle"
+                size={48}
+                color="#1F3F69"
+              />
+            ) : (
+              <Ionicons name="chevron-forward-circle" size={48} color="#555" />
+            )}
           </TouchableOpacity>
         </View>
       </View>
