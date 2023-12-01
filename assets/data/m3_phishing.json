@@ -1,0 +1,29 @@
+{
+  "title": "Cómo protegerse de ataques de phishing",
+  "steps": [
+    {
+      "stepTitle": "Mantenga su software actualizado",
+      "body": "Instale las actualizaciones de seguridad de su sistema operativo y de todas las aplicaciones que utiliza. Esto ayudará a proteger su dispositivo contra las vulnerabilidades que los atacantes pueden explotar para enviarle correos electrónicos de phishing."
+    },
+    {
+      "stepTitle": "Sea cauteloso con los correos electrónicos que recibe",
+      "body": "Si recibe un correo electrónico de una fuente desconocida, o si el correo electrónico parece sospechoso, no haga clic en ningún enlace ni abra ningún archivo adjunto. En su lugar, póngase en contacto con la organización que supuestamente envió el correo electrónico para verificar su autenticidad."
+    },
+    {
+      "stepTitle": "Utilice un software antiphishing",
+      "body": "Un software antiphishing puede ayudar a detectar y bloquear correos electrónicos de phishing. Instale un software antiphishing de confianza y manténgalo actualizado."
+    },
+    {
+      "stepTitle": "No comparta su información personal en línea",
+      "body": "No comparta su información personal, como su contraseña, número de tarjeta de crédito o número de seguro social, con nadie que no conozca o en quien no confíe. Si recibe un correo electrónico que le pide que proporcione esta información, no haga clic en ningún enlace ni abra ningún archivo adjunto. En su lugar, póngase en contacto con la organización que supuestamente envió el correo electrónico para verificar su autenticidad."
+    },
+    {
+      "stepTitle": "Use una VPN",
+      "body": "Una VPN puede ayudar a proteger su privacidad en línea al encriptar su tráfico de Internet. Esto puede dificultar que los atacantes rastreen su actividad en línea o intercepten sus datos."
+    },
+    {
+      "stepTitle": "Habilite la autenticación de dos factores",
+      "body": "La autenticación de dos factores (2FA) agrega una capa adicional de seguridad a sus cuentas. Cuando habilita la 2FA, deberá proporcionar dos formas de identificación para iniciar sesión, como su contraseña y un código de un solo uso (OTP) enviado a su teléfono. Esto puede ayudar a proteger sus cuentas contra el acceso no autorizado."
+    }
+  ]
+}

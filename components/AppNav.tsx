@@ -28,12 +28,12 @@ export default function AppNav({ children }: any) {
         </TouchableOpacity>
         <TouchableOpacity
           style={
-            pathname.includes('forums')
+            pathname.includes('help')
               ? [styles.button, { backgroundColor: '#E53E5C' }]
               : styles.button
           }
           activeOpacity={0.6}
-          onPress={() => router.push('/forums')}
+          onPress={() => router.push('/help')}
         >
           <Image
             style={{ width: 36, height: 36 }}

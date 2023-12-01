@@ -1,0 +1,37 @@
+{
+  "title": "Cómo proteger tu identidad en línea",
+  "steps": [
+    {
+      "stepTitle": "Sé consciente de tus datos",
+      "body": "Antes de publicar cualquier cosa en línea, piensa en quién podría verla y cómo podría usarse. No compartas información personal que no quieras que sea pública."
+    },
+    {
+      "stepTitle": "Usa contraseñas fuertes y únicas",
+      "body": "Una contraseña fuerte es una que es al menos 12 caracteres de largo y utiliza una combinación de letras, números y símbolos. Usa una contraseña diferente para cada cuenta en línea. Si no puedes recordar todas tus contraseñas, utiliza un administrador de contraseñas."
+    },
+    {
+      "stepTitle": "Activa la autenticación de dos factores",
+      "body": "La autenticación de dos factores (2FA) agrega una capa adicional de seguridad a tus cuentas. Cuando habilitas la 2FA, deberás proporcionar dos formas de identificación para iniciar sesión, como tu contraseña y un código de un solo uso (OTP) enviado a tu teléfono. Esto puede ayudar a proteger tus cuentas contra el acceso no autorizado."
+    },
+    {
+      "stepTitle": "Mantén tu software actualizado",
+      "body": "Instala las actualizaciones de seguridad de tu sistema operativo y de todas las aplicaciones que utilizas. Esto ayudará a proteger tu dispositivo contra las vulnerabilidades que los atacantes pueden explotar para robar tu identidad."
+    },
+    {
+      "stepTitle": "Evita las redes Wi-Fi públicas",
+      "body": "Las redes Wi-Fi públicas son menos seguras que las redes Wi-Fi privadas. Si debes usar una red Wi-Fi pública, utiliza una VPN para proteger tus datos."
+    },
+    {
+      "stepTitle": "Sé cauteloso con las ofertas en línea",
+      "body": "Las ofertas en línea pueden ser tentadoras, pero ten cuidado de no caer en estafas. Si ves una oferta que parece demasiado buena para ser verdad, probablemente lo sea."
+    },
+    {
+      "stepTitle": "Mantén tus dispositivos protegidos",
+      "body": "Instala un antivirus y un firewall en tus dispositivos para protegerlos de malware y ataques. Actualiza el software de seguridad regularmente para garantizar que esté protegido contra las últimas amenazas."
+    },
+    {
+      "stepTitle": "Sé consciente de las señales de advertencia",
+      "body": "Si recibes un correo electrónico o un mensaje de texto que parece sospechoso, ten cuidado. No hagas clic en ningún enlace ni abra ningún archivo adjunto. Si no estás seguro de si algo es legítimo, ponte en contacto con la organización directamente."
+    }
+  ]
+}

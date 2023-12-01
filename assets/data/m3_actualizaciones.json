@@ -1,0 +1,17 @@
+{
+  "title": "Cómo mantener actualizados tus sistemas operativos",
+  "steps": [
+    {
+      "stepTitle": "Configura las actualizaciones automáticas",
+      "body": "La forma más sencilla de mantener actualizados tus sistemas operativos es configurar las actualizaciones automáticas."
+    },
+    {
+      "stepTitle": "Revisa manualmente las actualizaciones",
+      "body": "Incluso si tienes las actualizaciones automáticas configuradas, es importante revisar manualmente las actualizaciones de vez en cuando. Esto es especialmente importante si estás utilizando una versión anterior de tu sistema operativo. Para revisar manualmente las actualizaciones, puedes ir a la configuración de actualizaciones de tu sistema operativo y seleccionar **Buscar actualizaciones**.Si hay actualizaciones disponibles, se instalarán automáticamente."
+    },
+    {
+      "stepTitle": "Instala las actualizaciones lo antes posible",
+      "body": "Es importante instalar las actualizaciones lo antes posible. Las actualizaciones pueden incluir correcciones de seguridad importantes que pueden proteger tu dispositivo contra malware y ataques.Si no instalas las actualizaciones lo antes posible, podrías dejar tu dispositivo vulnerable a los ataques."
+    }
+  ]
+}

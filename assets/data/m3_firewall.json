@@ -1,0 +1,17 @@
+{
+  "title": "Cómo configurar un firewall como un usuario común de una computadora",
+  "steps": [
+    {
+      "stepTitle": "Enciende el firewall",
+      "body": "El primer paso es encender el firewall. Esto se puede hacer en la configuración de tu sistema operativo. Por ejemplo, en Windows, puedes ir a **Configuración > Seguridad y privacidad > Firewall y protección de red** y seleccionar **Cambiar la configuración del firewall**. Luego, selecciona **Activar o desactivar el firewall de Windows Defender** y selecciona **Activar el firewall de Windows Defender para redes privadas** y **públicas**.En macOS, puedes ir a **Preferencias del sistema > Seguridad y privacidad > Firewall** y seleccionar **Activar el firewall**.En Linux, los pasos pueden variar según la distribución que estés utilizando. Por lo general, puedes encontrar la configuración del firewall en el menú de **Aplicaciones** o **Configuración**. "
+    },
+    {
+      "stepTitle": "Permite el tráfico entrante necesario",
+      "body": "Una vez que el firewall esté encendido, deberás permitir el tráfico entrante necesario. Esto incluye el tráfico de aplicaciones que necesitas usar, como tu navegador web, tu cliente de correo electrónico y tu software de mensajería.Para permitir el tráfico entrante necesario, puedes ir a la configuración de tu firewall y seleccionar **Aplicaciones y servicios permitidos**. Luego, selecciona las aplicaciones y los servicios que necesitas usar y haz clic en **Agregar**. Por ejemplo, si necesitas usar tu navegador web, deberás permitir el tráfico entrante de los puertos 80 y 443, que son los puertos que utiliza la mayoría de los sitios web."
+    },
+    {
+      "stepTitle": "Bloquea el tráfico entrante no deseado",
+      "body": "También debes bloquear el tráfico entrante no deseado. Esto incluye el tráfico de aplicaciones que no necesitas usar, como el malware y los programas espía.Para bloquear el tráfico entrante no deseado, puedes ir a la configuración de tu firewall y seleccionar **Reglas de entrada**. Luego, selecciona las reglas que deseas bloquear y haz clic en **Eliminar**. Por ejemplo, si no necesitas usar el protocolo FTP, puedes bloquear el tráfico entrante de los puertos 20 y 21, que son los puertos que utiliza FTP."
+    }
+  ]
+}

@@ -54,14 +54,14 @@ export default function RootLayout() {
     if (error) throw error;
   }, [error]);
 
-  useEffect(() => {
-    db.transaction((tx) => {
-      tx.executeSql(
-        'CREATE TABLE IF NOT EXISTS courses (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, grade INTEGER)'
-      );
-      setIsLoading(false);
-    });
-  }, []);
+  // useEffect(() => {
+  //   db.transaction((tx) => {
+  //     tx.executeSql(
+  //       'CREATE TABLE IF NOT EXISTS courses (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, grade REAL, complete INTEGER)'
+  //     );
+  //     setIsLoading(false);
+  //   });
+  // }, []);
 
   useEffect(() => {
     if (loaded) {
@@ -90,7 +90,7 @@ function RootLayoutNav() {
               options={{ headerShown: false }}
             />
             <Stack.Screen
-              name="forums/index"
+              name="help/index"
               options={{ headerShown: false }}
             />
             <Stack.Screen name="news/index" options={{ headerShown: false }} />

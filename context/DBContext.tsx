@@ -13,13 +13,26 @@ export const DBProvider = ({ children }: any) => {
   const [dbIsLoading, setDBIsLoading] = useState(true);
 
   useEffect(() => {
-    db.transaction((tx) => {
-      tx.executeSql(
-        'CREATE TABLE IF NOT EXISTS courses (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, grade INTEGER)'
-      );
-      setDBIsLoading(false);
-    });
+    const load = async () => {
+      db.transaction((tx) => {
+        tx.executeSql(
+          'CREATE TABLE IF NOT EXISTS courses (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, grade INTEGER, completed INTEGER)'
+        );
+        setDBIsLoading(false);
+      });
+    };
+    load();
   }, []);
+
+  const getCourses = async () => {
+    const courses = await db.transaction((tr) => {
+       const res = tr.executeSql(
+        'SELECT * FROM courses;'
+      );
+      return res;
+    })
+    return courses;
+  };
 
   return (
     <DBContext.Provider

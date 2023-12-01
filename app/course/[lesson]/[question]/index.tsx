@@ -6,6 +6,7 @@ import { RadioButtonProps, RadioGroup } from 'react-native-radio-buttons-group';
 import { Ionicons } from '@expo/vector-icons';
 import generateOptions from '../../../../helpers/generateOptions';
 import { useCourse } from '../../../../context/CourseContext';
+import { ScrollView } from 'react-native-gesture-handler';
 
 export default function TabProfileScreen() {
   const { questions, currentStreak, toggleAnswer, changeGrade, currentLesson } =
@@ -110,13 +111,16 @@ export default function TabProfileScreen() {
           {questions[Number(currPath)].pregunta || 'Pregunta'}
         </Text>
         {radioButtons && (
-          <View className="flex-1 w-full justify-center overflow-y-auto">
+          <ScrollView className="flex-1 w-full">
+            <View className='justify-center'>
+
+            </View>
             <RadioGroup
               radioButtons={radioButtons}
               onPress={setSelectedId}
               selectedId={selectedId}
             />
-          </View>
+          </ScrollView>
         )}
         <View
           className={`flex-row w-full mt-auto ${

@@ -1,508 +1,507 @@
 {
-    "titulo": "Protección de la identidad",
-    "texto": "",
-    "video": "s-26-j9BQdI?si=6PVGJ0PfSjQ3_QRx",
-    "preguntas": [
-        {
-            "pregunta": "¿Qué se entiende por protección de identidad personal?",
-            "opciones": {
-                "a":"La protección de identidad personal se refiere a las medidas y prácticas diseñadas para salvaguardar la información personal de una persona de posibles amenazas, fraudes o accesos no autorizados.",
-                "b":"La protección de identidad personal se refiere a la recopilación de datos personales para su uso comercial.",
-                "c":"La protección de identidad personal se refiere a la creación de identidades falsas en línea.",
-                "d":"La protección de identidad personal se refiere a la protección de la identidad de celebridades."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué tipo de información personal se busca proteger en la protección de identidad personal?",
-            "opciones": {
-                "a":"Se busca proteger datos como nombres, direcciones, números de teléfono, números de seguridad social, números de identificación personal, números de cuenta bancaria, contraseñas y otra información sensible que puede ser utilizada para identificar o acceder a la vida financiera, personal y en línea de alguien.",
-                "b":"Se busca proteger datos como el color favorito de una persona y su comida preferida.",
-                "c":"Se busca proteger datos como el número de zapato de una persona y su mascota favorita.",
-                "d":"Se busca proteger datos como el equipo deportivo favorito de una persona y su película preferida."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Por qué es esencial la protección de identidad personal?",
-            "opciones": {
-                "a":"La protección de identidad personal es esencial para prevenir el robo de identidad, el fraude financiero y otras actividades delictivas que pueden surgir cuando los delincuentes obtienen acceso a esta información.",
-                "b":"La protección de identidad personal no es esencial en absoluto.",
-                "c":"La protección de identidad personal es esencial para ganar premios en línea.",
-                "d":"La protección de identidad personal es esencial para obtener una dirección de correo electrónico."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cuáles son algunas medidas comunes de protección de identidad personal?",
-            "opciones": {
-                "a":"Algunas medidas comunes incluyen el uso de contraseñas fuertes y únicas, la actualización regular de contraseñas y el uso de autenticación de dos factores (2FA) cuando esté disponible.",
-                "b":"Algunas medidas comunes incluyen la publicación de información personal en redes sociales.",
-                "c":"Algunas medidas comunes incluyen compartir contraseñas con amigos y familiares.",
-                "d":"Algunas medidas comunes incluyen dejar documentos personales en lugares públicos."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué precauciones se deben tomar con respecto a compartir información personal en línea?",
-            "opciones": {
-                "a":"Se debe evitar compartir información personal en línea o con desconocidos.",
-                "b":"Se debe compartir información personal en línea con tanta gente como sea posible.",
-                "c":"No es necesario tomar precauciones al compartir información personal en línea.",
-                "d":"Se deben compartir todos los detalles personales en línea para ganar regalos."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cómo se pueden proteger los dispositivos y redes en el contexto de la protección de identidad personal?",
-            "opciones": {
-                "a":"Se pueden proteger mediante el uso de software de seguridad.",
-                "b":"Se pueden proteger volviendo públicas las redes Wi-Fi en lugares públicos.",
-                "c":"No es necesario proteger dispositivos y redes para la protección de identidad personal.",
-                "d":"Se pueden proteger mediante el uso de contraseñas simples como '123456'."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué se debe tener en cuenta en relación con las estafas de phishing?",
-            "opciones": {
-                "a":"Es importante ser consciente de las estafas de phishing y no hacer clic en enlaces o descargar archivos adjuntos sospechosos.",
-                "b":"Es importante hacer clic en todos los enlaces y archivos adjuntos que recibas en correos electrónicos.",
-                "c":"No es importante prestar atención a las estafas de phishing.",
-                "d":"Es importante compartir información personal con remitentes desconocidos en correos electrónicos."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Por qué es relevante revisar regularmente los informes de crédito y cuentas financieras?",
-            "opciones": {
-                "a":"Esto es importante para detectar actividad inusual que pueda indicar un posible robo de identidad o fraude financiero.",
-                "b":"No es relevante revisar los informes de crédito y cuentas financieras en absoluto.",
-                "c":"Revisar los informes de crédito y cuentas financieras solo es relevante para ganar puntos en un juego en línea.",
-                "d":"Revisar los informes de crédito y cuentas financieras solo es relevante para recibir descuentos en tiendas en línea."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cómo se debe manejar la información personal en documentos físicos antes de desecharlos?",
-            "opciones": {
-                "a":"Deben destruirse de manera segura para evitar que caigan en manos equivocadas.",
-                "b":"Deben dejarse al azar en la basura.",
-                "c":"Deben ser arrojados en la vía pública para que cualquiera los encuentre.",
-                "d":"Deben ser compartidos con extraños antes de ser desechados."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cuál es el propósito fundamental de todas estas medidas de protección de identidad personal?",
-            "opciones": {
-                "a":"El propósito principal es proteger la información personal y financiera de una persona y prevenir el acceso no autorizado o el uso indebido de esta información.",
-                "b":"El propósito principal es compartir información personal con todos.",
-                "c":"El propósito principal es ganar regalos en línea.",
-                "d":"El propósito principal es dar acceso ilimitado a la información personal en línea."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué tipo de herramienta te permite almacenar y administrar de manera segura contraseñas fuertes y únicas para tus cuentas en línea?",
-            "opciones": {
-                "a":"Un gestor de contraseñas.",
-                "b":"Un generador de contraseñas débiles.",
-                "c":"Un repositorio público de contraseñas.",
-                "d":"Un diario personal."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cuál es el propósito de un gestor de contraseñas?",
-            "opciones": {
-                "a":"El propósito de un gestor de contraseñas es almacenar y gestionar contraseñas de manera segura para cuentas en línea.",
-                "b":"El propósito de un gestor de contraseñas es revelar todas tus contraseñas al público.",
-                "c":"El propósito de un gestor de contraseñas es perder contraseñas constantemente.",
-                "d":"El propósito de un gestor de contraseñas es no recordar ninguna contraseña."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Puedes mencionar ejemplos populares de gestores de contraseñas?",
-            "opciones": {
-                "a":"Ejemplos populares de gestores de contraseñas incluyen LastPass, 1Password y Bitwarden.",
-                "b":"Ejemplos populares de gestores de contraseñas incluyen \"123456\" y \"password.\"",
-                "c":"Ejemplos populares de gestores de contraseñas incluyen compartir tus contraseñas en redes sociales.",
-                "d":"Ejemplos populares de gestores de contraseñas incluyen escribir tus contraseñas en tu pantalla de computadora."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cómo puede ayudarte la autenticación de dos factores (2FA) a proteger tus cuentas en línea?",
-            "opciones": {
-                "a":"La 2FA proporciona una capa adicional de seguridad al requerir un código de verificación después de ingresar tu contraseña.",
-                "b":"La 2FA permite el acceso a cuentas sin contraseña.",
-                "c":"La 2FA no tiene ningún propósito en la protección de cuentas en línea.",
-                "d":"La 2FA es un tipo de broma en línea."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿En qué consiste normalmente la 2FA y qué implica después de ingresar tu contraseña?",
-            "opciones": {
-                "a":"La 2FA implica recibir un código de verificación en tu dispositivo móvil o correo electrónico después de ingresar tu contraseña.",
-                "b":"La 2FA implica el acceso ilimitado a cuentas sin contraseña.",
-                "c":"La 2FA implica recibir un regalo en lugar de un código de verificación.",
-                "d":"La 2FA implica la publicación de contraseñas en línea."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué tipo de software en tus dispositivos puede ayudarte a protegerte contra malware y virus?",
-            "opciones": {
-                "a":"El software de seguridad y antivirus.",
-                "b":"El software de entretenimiento.",
-                "c":"El software de cocina.",
-                "d":"El software de música."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Por qué es importante proteger tu información personal contra el robo de malware?",
-            "opciones": {
-                "a":"El malware puede robar información personal de tu dispositivo y enviarla a los delincuentes.",
-                "b":"No es importante proteger tu información personal contra el robo de malware.",
-                "c":"El malware solo se interesa en las recetas de cocina.",
-                "d":"El malware solo se interesa en los juegos en línea."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cómo puede un cortafuegos (firewall) contribuir a proteger tus sistemas y dispositivos?",
-            "opciones": {
-                "a":"Un cortafuegos protege tu red y dispositivo monitoreando y controlando el tráfico de entrada y salida, previniendo el acceso no autorizado.",
-                "b":"Un cortafuegos permite acceso ilimitado a tu red y dispositivo.",
-                "c":"Un cortafuegos no tiene ninguna función de protección.",
-                "d":"Un cortafuegos es una herramienta de cocina."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cuál es la función principal de una VPN en términos de proteger tu identidad en línea?",
-            "opciones": {
-                "a":"Una VPN cifra tu tráfico de internet y oculta tu dirección IP, protegiendo así tu identidad y privacidad en línea.",
-                "b":"Una VPN revela tu dirección IP a todos en línea.",
-                "c":"Una VPN no tiene ningún propósito en línea.",
-                "d":"Una VPN es un servicio de entrega de pizza en línea."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué hace una VPN para proteger tu identidad y privacidad en línea?",
-            "opciones": {
-                "a":"Una VPN oculta tu dirección IP y cifra tus datos, protegiendo así tu identidad y privacidad en línea.",
-                "b":"Una VPN publica tu dirección IP y desencripta tus datos.",
-                "c":"Una VPN no hace nada por tu identidad y privacidad en línea.",
-                "d":"Una VPN te proporciona una dirección IP adicional."
-            },
-            "respuesta_correcta": "b"
-        },
+  "titulo": "Protección de la identidad",
+  "texto": "",
+  "video": "s-26-j9BQdI?si=6PVGJ0PfSjQ3_QRx",
+  "preguntas": [
     {
-            "pregunta": "¿Qué amenazas en línea puede ayudar a prevenir una VPN?",
-            "opciones": {
-                "a":"Una VPN puede ayudar a prevenir amenazas como el espionaje de datos y el rastreo en línea.",
-                "b":"Una VPN puede ayudar a prevenir que los extraterrestres accedan a tu computadora.",
-                "c":"Una VPN puede ayudar a prevenir que los unicornios cibernéticos roben tus contraseñas.",
-                "d":"Una VPN puede ayudar a prevenir que los piratas informáticos se conviertan en piratas reales."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cómo ayuda una VPN a proteger tu información de sitios que quieran registrar tus patrones de comportamiento en línea?",
-            "opciones": {
-                "a":"Una VPN oculta tu dirección IP, lo que dificulta que los sitios registren tus patrones de comportamiento en línea.",
-                "b":"Una VPN permite que los sitios registren tus patrones de comportamiento en línea de manera más eficiente.",
-                "c":"Una VPN revela tus patrones de comportamiento en línea a todos los sitios.",
-                "d":"Una VPN muestra tus patrones de comportamiento en línea en un sitio web público."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué herramienta o práctica protege tu red y dispositivo al monitorear y controlar el tráfico de entrada y salida?",
-            "opciones": {
-                "a":"Un cortafuegos (firewall).",
-                "b":"Una taza de té.",
-                "c":"Una caja de galletas.",
-                "d":"Una varita mágica."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cuál es el propósito principal de un cortafuegos?",
-            "opciones": {
-                "a":"El propósito principal de un cortafuegos es proteger tu red y dispositivo al controlar el tráfico de entrada y salida.",
-                "b":"El propósito principal de un cortafuegos es asar carne a la parrilla.",
-                "c":"El propósito principal de un cortafuegos es tocar música en conciertos.",
-                "d":"El propósito principal de un cortafuegos es pintar cuadros abstractos."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cómo se puede beneficiar la protección de identidad personal mediante el uso de una red privada virtual (VPN)?",
-            "opciones": {
-                "a":"Una VPN puede beneficiar la protección de identidad personal al cifrar el tráfico de internet y ocultar la dirección IP, proporcionando así una capa adicional de privacidad y seguridad.",
-                "b":"Una VPN puede beneficiar la protección de identidad personal al enviar regalos virtuales a tus amigos en línea.",
-                "c":"Una VPN puede beneficiar la protección de identidad personal al proporcionar consejos de moda en línea.",
-                "d":"Una VPN puede beneficiar la protección de identidad personal al adivinar tu color favorito."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cuáles son algunas de las graves consecuencias de no proteger tu identidad en línea?",
-            "opciones": {
-                "a":"Al no proteger tu identidad en línea, tu información personal y digital puede volverse vulnerable a amenazas y ataques.",
-                "b":"Al no proteger tu identidad en línea, te conviertes en un superhéroe digital.",
-                "c":"Al no proteger tu identidad en línea, te conviertes en una celebridad en línea.",
-                "d":"Al no proteger tu identidad en línea, te conviertes en una leyenda en línea."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿En qué consiste el robo de identidad y cómo puede afectar a una persona?",
-            "opciones": {
-                "a":"El robo de identidad implica que los delincuentes utilicen información personal, como nombre, número de seguro social y fecha de nacimiento, para cometer actividades ilegales en nombre de la víctima. Esto puede resultar en deudas, problemas legales y daños a la reputación.",
-                "b":"El robo de identidad implica que los delincuentes te sustituyan en tu trabajo y vida diaria, viviendo una doble vida en tu nombre.",
-                "c":"El robo de identidad implica que los delincuentes te conviertan en una estrella de rock en línea, haciendo que todos te adoren.",
-                "d":"El robo de identidad implica que los delincuentes te conviertan en el presidente de un país en línea, cambiando el rumbo de la nación digital."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cómo puede el robo de identidad llevar a problemas legales o financieros?",
-            "opciones": {
-                "a":"El robo de identidad puede llevar a que un delincuente cree cuentas bancarias o contratos en nombre de la víctima, lo que puede resultar en problemas legales o financieros.",
-                "b":"El robo de identidad puede llevar a que la víctima sea nombrada reina o rey de la internet.",
-                "c":"El robo de identidad puede llevar a que la víctima se convierta en millonaria en línea sin esfuerzo.",
-                "d":"El robo de identidad puede llevar a que la víctima se convierta en una celebridad digital sin parangón."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cómo utilizan los ciberacosadores el robo de identidad y cuál es su objetivo?",
-            "opciones": {
-                "a":"Los ciberacosadores utilizan el robo de identidad para difamar a la persona y chantajear al afectado.",
-                "b":"Los ciberacosadores utilizan el robo de identidad para organizar una fiesta sorpresa en línea para la víctima.",
-                "c":"Los ciberacosadores utilizan el robo de identidad para enviar regalos digitales a la víctima.",
-                "d":"Los ciberacosadores utilizan el robo de identidad para hacer cumplidos en línea a la víctima."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué es el fraude financiero y cómo puede afectar a las personas?",
-            "opciones": {
-                "a":"El fraude financiero implica que los criminales accedan a cuentas bancarias y tarjetas de crédito de una persona, lo que puede resultar en la pérdida de dinero y daño al historial crediticio.",
-                "b":"El fraude financiero implica que todos los gastos se conviertan en regalos mágicos sin costo alguno.",
-                "c":"El fraude financiero implica que todas las cuentas bancarias se llenen de dinero sin explicación.",
-                "d":"El fraude financiero implica que todas las deudas se perdonen instantáneamente."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cuál es la responsabilidad del banco en casos de robo de identidad?",
-            "opciones": {
-                "a":"Aunque el banco tiene cierta responsabilidad en la protección del dinero, en algunos casos podrían considerar que el robo de identidad fue culpa de la víctima y no podrán ayudar.",
-                "b":"El banco tiene la responsabilidad de proporcionar una llave mágica para deshacer todos los problemas de robo de identidad.",
-                "c":"El banco tiene la responsabilidad de convertir todos los problemas de robo de identidad en cuentos de hadas con finales felices.",
-                "d":"El banco tiene la responsabilidad de enviar regalos digitales en lugar de dinero a las víctimas de robo de identidad."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué estrategia utilizan la mayoría de los estafadores en relación con el dinero de las cuentas bancarias?",
-            "opciones": {
-                "a":"La mayoría de los estafadores no suelen retirar todo el dinero de la cuenta de una vez, en su lugar, sacan pequeñas cantidades periódicamente, lo que se conoce como 'carteras zombi.'",
-                "b":"La mayoría de los estafadores utilizan el dinero de las cuentas bancarias para comprar dulces en línea.",
-                "c":"La mayoría de los estafadores utilizan el dinero de las cuentas bancarias para financiar expediciones espaciales.",
-                "d":"La mayoría de los estafadores regalan todo el dinero de las cuentas bancarias a extraños en línea."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué implicaciones tiene la pérdida de privacidad en línea?",
-            "opciones": {
-                "a":"La pérdida de privacidad en línea puede llevar a que las empresas recopilen tu información y la utilicen para publicidad no deseada, rastreo en línea y venta de datos a terceros.",
-                "b":"La pérdida de privacidad en línea implica que todos los secretos del mundo sean compartidos en línea.",
-                "c":"La pérdida de privacidad en línea implica que todos los unicornios cibernéticos revelen tus deseos más profundos en línea.",
-                "d":"La pérdida de privacidad en línea implica que todas las conversaciones privadas se conviertan en libros abiertos en línea."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué riesgo adicional enfrenta una persona si su identidad en línea es comprometida?",
-            "opciones": {
-                "a":"Si tu identidad en línea es comprometida, podrían acceder a tus fotos, correos electrónicos, mensajes y otros datos personales, lo que constituye una grave violación de la privacidad.",
-                "b":"Si tu identidad en línea es comprometida, podrían convocar a una fiesta en línea en tu nombre.",
-                "c":"Si tu identidad en línea es comprometida, podrían organizar un desfile en línea en tu honor.",
-                "d":"Si tu identidad en línea es comprometida, podrían coronarte rey o reina de la internet."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué posibilidad existe de que el contenido personal comprometido sea retenido como rehén?",
-            "opciones": {
-                "a":"Existe la posibilidad de que el contenido personal comprometido sea retenido como rehén por la persona detrás del ataque.",
-                "b":"Existe la posibilidad de que el contenido personal comprometido se convierta en un superhéroe digital y luche contra el crimen cibernético.",
-                "c":"Existe la posibilidad de que el contenido personal comprometido se convierta en una celebridad digital y realice entrevistas en línea.",
-                "d":"Existe la posibilidad de que el contenido personal comprometido se convierta en una obra maestra digital y se exhiba en un museo en línea."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cuáles son algunas medidas que las personas pueden tomar para proteger su información personal en línea?",
-            "opciones": {
-                "a":"Algunas medidas incluyen utilizar contraseñas seguras, mantener el software actualizado y ser consciente de las estafas en línea.",
-                "b":"Algunas medidas incluyen publicar toda la información personal en redes sociales, compartir contraseñas con desconocidos y hacer clic en enlaces sospechosos.",
-                "c":"Algunas medidas incluyen gritar toda la información personal en la calle, dejar las contraseñas escritas en la puerta y abrir todos los correos electrónicos sospechosos.",
-                "d":"Algunas medidas incluyen convertirse en un superhéroe digital y defender la internet contra todas las amenazas."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cómo pueden las personas proteger su información financiera en línea?",
-            "opciones": {
-                "a":"Proteger la información financiera en línea implica usar conexiones seguras, revisar regularmente las transacciones y evitar compartir datos sensibles en sitios no confiables.",
-                "b":"Proteger la información financiera en línea implica regalar todo tu dinero a extraños en línea.",
-                "c":"Proteger la información financiera en línea implica utilizar tu tarjeta de crédito en todos los sitios web sin restricciones.",
-                "d":"Proteger la información financiera en línea implica publicar todos tus datos bancarios en redes sociales."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué importancia tiene la educación en la protección de identidad en línea?",
-            "opciones": {
-                "a":"La educación es crucial para que las personas reconozcan las amenazas en línea y adopten prácticas seguras para proteger su identidad.",
-                "b":"La educación es inútil y no aporta nada a la protección de identidad en línea.",
-                "c":"La educación implica convertirte en un maestro digital y enseñar a los delincuentes cómo cometer delitos en línea.",
-                "d":"La educación implica convertirte en un gurú en línea y predicar sobre la importancia de compartir todos tus secretos en la internet."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Cuál es el papel de las leyes y regulaciones en la protección de identidad en línea?",
-            "opciones": {
-                "a":"Las leyes y regulaciones establecen estándares de seguridad y proporcionan medidas legales contra el robo de identidad en línea.",
-                "b":"Las leyes y regulaciones son irrelevantes y no tienen impacto en la protección de identidad en línea.",
-                "c":"Las leyes y regulaciones permiten que todos los delincuentes en línea escapen de la justicia.",
-                "d":"Las leyes y regulaciones impiden que las personas disfruten de la internet."
-            },
-            "respuesta_correcta": "b"
-        },
-        {
-            "pregunta": "¿Qué medidas adicionales pueden tomar las personas para mantener su privacidad en línea?",
-            "opciones": {
-                "a":"Además de proteger su identidad, las personas pueden usar redes privadas virtuales (VPNs) y extensiones de privacidad en navegadores para mantener su privacidad en línea.",
-                "b":"Además de proteger su identidad, las personas pueden compartir toda su información personal en línea para que todos la vean.",
-                "c":"Además de proteger su identidad, las personas pueden enviar regalos digitales a todos en línea para mantener la privacidad.",
-                "d":"Además de proteger su identidad, las personas pueden convertirse en celebridades digitales y compartir sus vidas en línea en tiempo real."
-            },
-            "respuesta_correcta": "b"
-        },
+      "pregunta": "¿Qué se entiende por protección de identidad personal?",
+      "opciones": {
+        "a": "La protección de identidad personal se refiere a la protección de la identidad de celebridades.",
+        "b": "La protección de identidad personal se refiere a las medidas y prácticas diseñadas para salvaguardar la información personal de una persona de posibles amenazas, fraudes o accesos no autorizados.",
+        "c": "La protección de identidad personal se refiere a la recopilación de datos personales para su uso comercial.",
+        "d": "La protección de identidad personal se refiere a la creación de identidades falsas en línea."
+      },
+      "respuesta_correcta": "b"
+    },
     {
-          "pregunta": "¿Qué es el fraude financiero en línea y cómo puede afectar a una persona?",
-          "opciones": {
-            "a":"El fraude financiero en línea implica que los criminales accedan a cuentas bancarias, tarjetas de crédito y cuentas en línea de una persona, lo que puede resultar en la pérdida de dinero y daño significativo a su historial crediticio.",
-            "b":"El fraude financiero en línea se refiere a la inversión en línea de dinero para obtener ganancias.",
-            "c":"El fraude financiero en línea es una técnica para aumentar la puntuación crediticia de una persona.",
-            "d":"El fraude financiero en línea es inofensivo y no afecta a las personas."
-          },
-          "respuesta_correcta": "b"
-        },
-        {
-          "pregunta": "¿Cuál es la responsabilidad de un banco en casos de robo de identidad?",
-          "opciones": {
-            "a":"Los bancos tienen cierta responsabilidad en la protección del dinero de los clientes, pero en algunos casos, pueden considerar que el robo de identidad fue culpa del cliente y no podrán ayudar.",
-            "b":"Los bancos son siempre responsables de cualquier caso de robo de identidad y deben reembolsar cualquier pérdida.",
-            "c":"Los bancos no tienen ninguna responsabilidad en casos de robo de identidad.",
-            "d":"Los bancos pueden negar todos los servicios a las víctimas de robo de identidad."
-          },
-          "respuesta_correcta": "b"
-        },
-        {
-          "pregunta": "¿Qué son las 'carteras zombi' en el contexto del fraude financiero?",
-          "opciones": {
-            "a":"Las 'carteras zombi' se refieren a la estrategia de los estafadores de no retirar todo el dinero de una cuenta de una vez, sino sacar pequeñas cantidades periódicamente para que los propietarios de las cuentas no noten la ausencia de su dinero.",
-            "b":"Las 'carteras zombi' son una forma segura de proteger su dinero en línea.",
-            "c":"Las 'carteras zombi' son cuentas bancarias especiales para zombies.",
-            "d":"Las 'carteras zombi' son tarjetas de crédito sin límite de gasto."
-          },
-          "respuesta_correcta": "b"
-        },
-        {
-          "pregunta": "¿Cómo puede la pérdida de privacidad en línea afectar a una persona?",
-          "opciones": {
-            "a":"La pérdida de privacidad en línea puede resultar en que la información personal de una persona sea recopilada por empresas para dirigir publicidad no deseada, rastrear su actividad en línea y vender su información a terceros.",
-            "b":"La pérdida de privacidad en línea no tiene ningún efecto en las personas.",
-            "c":"La pérdida de privacidad en línea solo afecta a las celebridades.",
-            "d":"La pérdida de privacidad en línea puede hacer que una persona gane más dinero."
-          },
-          "respuesta_correcta": "b"
-        },
-        {
-          "pregunta": "¿Qué se entiende por 'violación de la privacidad personal' en el contexto del robo de identidad en línea?",
-          "opciones": {
-            "a":"La 'violación de la privacidad personal' implica que los delincuentes pueden acceder a fotos, correos electrónicos, mensajes y otros datos personales de la víctima, lo que constituye una grave invasión de la privacidad.",
-            "b":"La 'violación de la privacidad personal' se refiere a compartir información personal en línea de manera segura.",
-            "c":"La 'violación de la privacidad personal' es una práctica legítima en el robo de identidad.",
-            "d":"La 'violación de la privacidad personal' solo afecta a las personas famosas."
-          },
-          "respuesta_correcta": "b"
-        },
-        {
-          "pregunta": "¿Qué riesgo adicional enfrenta una persona cuya identidad en línea ha sido comprometida?",
-          "opciones": {
-            "a":"Si la identidad en línea de una persona es comprometida, existe la posibilidad de que su contenido personal sea retenido como rehén por la persona detrás del ataque.",
-            "b":"No hay riesgo adicional para una persona cuya identidad en línea ha sido comprometida.",
-            "c":"Una persona cuya identidad en línea ha sido comprometida puede solicitar una indemnización.",
-            "d":"El riesgo adicional para una persona cuya identidad en línea ha sido comprometida es que ganará dinero extra."
-          },
-          "respuesta_correcta": "b"
-        },
-        {
-          "pregunta": "¿Cuáles son algunas de las estrategias y medidas destacadas en el video para proteger la identidad en línea?",
-          "opciones": {
-            "a":"Las estrategias incluyen mantener contraseñas seguras, utilizar la autenticación de dos factores, ser consciente de las señales de phishing y mantener dispositivos seguros y actualizados.",
-            "b":"No se mencionan estrategias o medidas para proteger la identidad en línea en el video.",
-            "c":"Las estrategias incluyen compartir contraseñas en línea para aumentar la seguridad.",
-            "d":"Las estrategias incluyen hacer clic en todos los enlaces sospechosos sin verificarlos."
-          },
-          "respuesta_correcta": "b"
-        },
-        {
-          "pregunta": "¿Por qué se enfatiza la importancia de la educación y la conciencia en el video?",
-          "opciones": {
-            "a":"Se enfatiza la importancia de la educación y la conciencia porque la información es la mejor defensa contra el robo de identidad, y las personas deben estar informadas para protegerse de las amenazas cibernéticas.",
-            "b":"La educación y la conciencia no son importantes en la protección de la identidad en línea.",
-            "c":"La educación y la conciencia solo son importantes para los niños.",
-            "d":"La importancia de la educación y la conciencia no se menciona en el video."
-          },
-          "respuesta_correcta": "b"
-        },
-        {
-          "pregunta": "¿Por qué se menciona que la protección de la identidad es un esfuerzo continuo?",
-          "opciones": {
-            "a":"La protección de la identidad en línea es un esfuerzo continuo porque las amenazas cibernéticas evolucionan constantemente, y la vigilancia constante es esencial para mantener los datos personales seguros.",
-            "b":"La protección de la identidad en línea no requiere esfuerzo continuo y es un proceso único.",
-            "c":"La protección de la identidad en línea solo debe realizarse una vez al año.",
-            "d":"La protección de la identidad en línea es responsabilidad de las empresas, no de los individuos."
-          },
-          "respuesta_correcta": "b"
-        },
-        {
-          "pregunta": "¿Qué se destaca como un compromiso que todos deben asumir en el ciberespacio?",
-          "opciones": {
-            "a":"Se destaca que la protección de la identidad es un compromiso que todos deben asumir en el ciberespacio, y es responsabilidad de cada individuo tomar medidas para mantener sus datos personales seguros.",
-            "b":"No se destaca ningún compromiso en el ciberespacio.",
-            "c":"La protección de la identidad en línea es responsabilidad exclusiva de las empresas.",
-            "d":"La protección de la identidad en línea es responsabilidad exclusiva del gobierno."
-          },
-          "respuesta_correcta": "b"
-        }
-    ]
-    
+      "pregunta": "¿Qué tipo de información personal se busca proteger en la protección de identidad personal?",
+      "opciones": {
+        "a": "Se busca proteger datos como el equipo deportivo favorito de una persona y su película preferida.",
+        "b": "Se busca proteger datos como el número de zapato de una persona y su mascota favorita.",
+        "c": "Se busca proteger datos como el color favorito de una persona y su comida preferida.",
+        "d": "Se busca proteger datos como nombres, direcciones, números de teléfono, números de seguridad social, números de identificación personal, números de cuenta bancaria, contraseñas y otra información sensible que puede ser utilizada para identificar o acceder a la vida financiera, personal y en línea de alguien."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Por qué es esencial la protección de identidad personal?",
+      "opciones": {
+        "a": "La protección de identidad personal no es esencial en absoluto.",
+        "b": "La protección de identidad personal es esencial para prevenir el robo de identidad, el fraude financiero y otras actividades delictivas que pueden surgir cuando los delincuentes obtienen acceso a esta información.",
+        "c": "La protección de identidad personal es esencial para ganar premios en línea.",
+        "d": "La protección de identidad personal es esencial para obtener una dirección de correo electrónico."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuáles son algunas medidas comunes de protección de identidad personal?",
+      "opciones": {
+        "a": "Algunas medidas comunes incluyen compartir contraseñas con amigos y familiares.",
+        "b": "Algunas medidas comunes incluyen dejar documentos personales en lugares públicos.",
+        "c": "Algunas medidas comunes incluyen el uso de contraseñas fuertes y únicas, la actualización regular de contraseñas y el uso de autenticación de dos factores (2FA) cuando esté disponible.",
+        "d": "Algunas medidas comunes incluyen la publicación de información personal en redes sociales."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué precauciones se deben tomar con respecto a compartir información personal en línea?",
+      "opciones": {
+        "a": "Se debe compartir información personal en línea con tanta gente como sea posible.",
+        "b": "No es necesario tomar precauciones al compartir información personal en línea.",
+        "c": "Se deben compartir todos los detalles personales en línea para ganar regalos.",
+        "d": "Se debe evitar compartir información personal en línea o con desconocidos."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Cómo se pueden proteger los dispositivos y redes en el contexto de la protección de identidad personal?",
+      "opciones": {
+        "a": "Se pueden proteger volviendo públicas las redes Wi-Fi en lugares públicos.",
+        "b": "Se pueden proteger mediante el uso de contraseñas simples como '123456'.",
+        "c": "No es necesario proteger dispositivos y redes para la protección de identidad personal.",
+        "d": "Se pueden proteger mediante el uso de software de seguridad."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué se debe tener en cuenta en relación con las estafas de phishing?",
+      "opciones": {
+        "a": "No es importante prestar atención a las estafas de phishing.",
+        "b": "Es importante hacer clic en todos los enlaces y archivos adjuntos que recibas en correos electrónicos.",
+        "c": "Es importante ser consciente de las estafas de phishing y no hacer clic en enlaces o descargar archivos adjuntos sospechosos.",
+        "d": "Es importante compartir información personal con remitentes desconocidos en correos electrónicos."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué es relevante revisar regularmente los informes de crédito y cuentas financieras?",
+      "opciones": {
+        "a": "Revisar los informes de crédito y cuentas financieras solo es relevante para ganar puntos en un juego en línea.",
+        "b": "Esto es importante para detectar actividad inusual que pueda indicar un posible robo de identidad o fraude financiero.",
+        "c": "Revisar los informes de crédito y cuentas financieras solo es relevante para recibir descuentos en tiendas en línea.",
+        "d": "No es relevante revisar los informes de crédito y cuentas financieras en absoluto."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cómo se debe manejar la información personal en documentos físicos antes de desecharlos?",
+      "opciones": {
+        "a": "Deben ser compartidos con extraños antes de ser desechados.",
+        "b": "Deben ser arrojados en la vía pública para que cualquiera los encuentre.",
+        "c": "Deben destruirse de manera segura para evitar que caigan en manos equivocadas.",
+        "d": "Deben dejarse al azar en la basura."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el propósito fundamental de todas estas medidas de protección de identidad personal?",
+      "opciones": {
+        "a": "El propósito principal es dar acceso ilimitado a la información personal en línea.",
+        "b": "El propósito principal es proteger la información personal y financiera de una persona y prevenir el acceso no autorizado o el uso indebido de esta información.",
+        "c": "El propósito principal es compartir información personal con todos.",
+        "d": "El propósito principal es ganar regalos en línea."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué tipo de herramienta te permite almacenar y administrar de manera segura contraseñas fuertes y únicas para tus cuentas en línea?",
+      "opciones": {
+        "a": "Un gestor de contraseñas.",
+        "b": "Un diario personal.",
+        "c": "Un repositorio público de contraseñas.",
+        "d": "Un generador de contraseñas débiles."
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es el propósito de un gestor de contraseñas?",
+      "opciones": {
+        "a": "El propósito de un gestor de contraseñas es almacenar y gestionar contraseñas de manera segura para cuentas en línea.",
+        "b": "El propósito de un gestor de contraseñas es revelar todas tus contraseñas al público.",
+        "c": "El propósito de un gestor de contraseñas es perder contraseñas constantemente.",
+        "d": "El propósito de un gestor de contraseñas es no recordar ninguna contraseña."
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "pregunta": "¿Puedes mencionar ejemplos populares de gestores de contraseñas?",
+      "opciones": {
+        "a": "Ejemplos populares de gestores de contraseñas incluyen compartir tus contraseñas en redes sociales.",
+        "b": "Ejemplos populares de gestores de contraseñas incluyen 123456 y password.",
+        "c": "Ejemplos populares de gestores de contraseñas incluyen escribir tus contraseñas en tu pantalla de computadora.",
+        "d": "Ejemplos populares de gestores de contraseñas incluyen LastPass, 1Password y Bitwarden."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Cómo puede ayudarte la autenticación de dos factores (2FA) a proteger tus cuentas en línea?",
+      "opciones": {
+        "a": "La 2FA es un tipo de broma en línea.",
+        "b": "La 2FA no tiene ningún propósito en la protección de cuentas en línea.",
+        "c": "La 2FA proporciona una capa adicional de seguridad al requerir un código de verificación después de ingresar tu contraseña.",
+        "d": "La 2FA permite el acceso a cuentas sin contraseña."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿En qué consiste normalmente la 2FA y qué implica después de ingresar tu contraseña?",
+      "opciones": {
+        "a": "La 2FA implica recibir un regalo en lugar de un código de verificación.",
+        "b": "La 2FA implica el acceso ilimitado a cuentas sin contraseña.",
+        "c": "La 2FA implica la publicación de contraseñas en línea.",
+        "d": "La 2FA implica recibir un código de verificación en tu dispositivo móvil o correo electrónico después de ingresar tu contraseña."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué tipo de software en tus dispositivos puede ayudarte a protegerte contra malware y virus?",
+      "opciones": {
+        "a": "El software de música.",
+        "b": "El software de seguridad y antivirus.",
+        "c": "El software de entretenimiento.",
+        "d": "El software de cocina."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Por qué es importante proteger tu información personal contra el robo de malware?",
+      "opciones": {
+        "a": "El malware solo se interesa en las recetas de cocina.",
+        "b": "El malware puede robar información personal de tu dispositivo y enviarla a los delincuentes.",
+        "c": "No es importante proteger tu información personal contra el robo de malware.",
+        "d": "El malware solo se interesa en los juegos en línea."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cómo puede un cortafuegos (firewall) contribuir a proteger tus sistemas y dispositivos?",
+      "opciones": {
+        "a": "Un cortafuegos no tiene ninguna función de protección.",
+        "b": "Un cortafuegos protege tu red y dispositivo monitoreando y controlando el tráfico de entrada y salida, previniendo el acceso no autorizado.",
+        "c": "Un cortafuegos es una herramienta de cocina.",
+        "d": "Un cortafuegos permite acceso ilimitado a tu red y dispositivo."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuál es la función principal de una VPN en términos de proteger tu identidad en línea?",
+      "opciones": {
+        "a": "Una VPN es un servicio de entrega de pizza en línea.",
+        "b": "Una VPN revela tu dirección IP a todos en línea.",
+        "c": "Una VPN cifra tu tráfico de internet y oculta tu dirección IP, protegiendo así tu identidad y privacidad en línea.",
+        "d": "Una VPN no tiene ningún propósito en línea."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué hace una VPN para proteger tu identidad y privacidad en línea?",
+      "opciones": {
+        "a": "Una VPN te proporciona una dirección IP adicional.",
+        "b": "Una VPN oculta tu dirección IP y cifra tus datos, protegiendo así tu identidad y privacidad en línea.",
+        "c": "Una VPN no hace nada por tu identidad y privacidad en línea.",
+        "d": "Una VPN publica tu dirección IP y desencripta tus datos."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué amenazas en línea puede ayudar a prevenir una VPN?",
+      "opciones": {
+        "a": "Una VPN puede ayudar a prevenir que los extraterrestres accedan a tu computadora.",
+        "b": "Una VPN puede ayudar a prevenir que los unicornios cibernéticos roben tus contraseñas.",
+        "c": "Una VPN puede ayudar a prevenir que los piratas informáticos se conviertan en piratas reales.",
+        "d": "Una VPN puede ayudar a prevenir amenazas como el espionaje de datos y el rastreo en línea."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Cómo ayuda una VPN a proteger tu información de sitios que quieran registrar tus patrones de comportamiento en línea?",
+      "opciones": {
+        "a": "Una VPN oculta tu dirección IP, lo que dificulta que los sitios registren tus patrones de comportamiento en línea.",
+        "b": "Una VPN permite que los sitios registren tus patrones de comportamiento en línea de manera más eficiente.",
+        "c": "Una VPN revela tus patrones de comportamiento en línea a todos los sitios.",
+        "d": "Una VPN muestra tus patrones de comportamiento en línea en un sitio web público."
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué herramienta o práctica protege tu red y dispositivo al monitorear y controlar el tráfico de entrada y salida?",
+      "opciones": {
+        "a": "Una caja de galletas.",
+        "b": "Una taza de té.",
+        "c": "Un cortafuegos (firewall).",
+        "d": "Una varita mágica."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el propósito principal de un cortafuegos?",
+      "opciones": {
+        "a": "El propósito principal de un cortafuegos es tocar música en conciertos.",
+        "b": "El propósito principal de un cortafuegos es proteger tu red y dispositivo al controlar el tráfico de entrada y salida.",
+        "c": "El propósito principal de un cortafuegos es asar carne a la parrilla.",
+        "d": "El propósito principal de un cortafuegos es pintar cuadros abstractos."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cómo se puede beneficiar la protección de identidad personal mediante el uso de una red privada virtual (VPN)?",
+      "opciones": {
+        "a": "Una VPN puede beneficiar la protección de identidad personal al adivinar tu color favorito.",
+        "b": "Una VPN puede beneficiar la protección de identidad personal al cifrar el tráfico de internet y ocultar la dirección IP, proporcionando así una capa adicional de privacidad y seguridad.",
+        "c": "Una VPN puede beneficiar la protección de identidad personal al enviar regalos virtuales a tus amigos en línea.",
+        "d": "Una VPN puede beneficiar la protección de identidad personal al proporcionar consejos de moda en línea."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cuáles son algunas de las graves consecuencias de no proteger tu identidad en línea?",
+      "opciones": {
+        "a": "Al no proteger tu identidad en línea, te conviertes en una leyenda en línea.",
+        "b": "Al no proteger tu identidad en línea, te conviertes en una celebridad en línea.",
+        "c": "Al no proteger tu identidad en línea, te conviertes en un superhéroe digital.",
+        "d": "Al no proteger tu identidad en línea, tu información personal y digital puede volverse vulnerable a amenazas y ataques."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿En qué consiste el robo de identidad y cómo puede afectar a una persona?",
+      "opciones": {
+        "a": "El robo de identidad implica que los delincuentes te conviertan en el presidente de un país en línea, cambiando el rumbo de la nación digital.",
+        "b": "El robo de identidad implica que los delincuentes te conviertan en una estrella de rock en línea, haciendo que todos te adoren.",
+        "c": "El robo de identidad implica que los delincuentes utilicen información personal, como nombre, número de seguro social y fecha de nacimiento, para cometer actividades ilegales en nombre de la víctima. Esto puede resultar en deudas, problemas legales y daños a la reputación.",
+        "d": "El robo de identidad implica que los delincuentes te sustituyan en tu trabajo y vida diaria, viviendo una doble vida en tu nombre."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cómo puede el robo de identidad llevar a problemas legales o financieros?",
+      "opciones": {
+        "a": "El robo de identidad puede llevar a que la víctima se convierta en millonaria en línea sin esfuerzo.",
+        "b": "El robo de identidad puede llevar a que la víctima sea nombrada reina o rey de la internet.",
+        "c": "El robo de identidad puede llevar a que un delincuente cree cuentas bancarias o contratos en nombre de la víctima, lo que puede resultar en problemas legales o financieros.",
+        "d": "El robo de identidad puede llevar a que la víctima se convierta en una celebridad digital sin parangón."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cómo utilizan los ciberacosadores el robo de identidad y cuál es su objetivo?",
+      "opciones": {
+        "a": "Los ciberacosadores utilizan el robo de identidad para hacer cumplidos en línea a la víctima.",
+        "b": "Los ciberacosadores utilizan el robo de identidad para enviar regalos digitales a la víctima.",
+        "c": "Los ciberacosadores utilizan el robo de identidad para difamar a la persona y chantajear al afectado.",
+        "d": "Los ciberacosadores utilizan el robo de identidad para organizar una fiesta sorpresa en línea para la víctima."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué es el fraude financiero y cómo puede afectar a las personas?",
+      "opciones": {
+        "a": "El fraude financiero implica que los criminales accedan a cuentas bancarias y tarjetas de crédito de una persona, lo que puede resultar en la pérdida de dinero y daño al historial crediticio.",
+        "b": "El fraude financiero implica que todos los gastos se conviertan en regalos mágicos sin costo alguno.",
+        "c": "El fraude financiero implica que todas las deudas se perdonen instantáneamente.",
+        "d": "El fraude financiero implica que todas las cuentas bancarias se llenen de dinero sin explicación."
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuál es la responsabilidad del banco en casos de robo de identidad?",
+      "opciones": {
+        "a": "El banco tiene la responsabilidad de enviar regalos digitales en lugar de dinero a las víctimas de robo de identidad.",
+        "b": "Aunque el banco tiene cierta responsabilidad en la protección del dinero, en algunos casos podrían considerar que el robo de identidad fue culpa de la víctima y no podrán ayudar.",
+        "c": "El banco tiene la responsabilidad de convertir todos los problemas de robo de identidad en cuentos de hadas con finales felices.",
+        "d": "El banco tiene la responsabilidad de proporcionar una llave mágica para deshacer todos los problemas de robo de identidad."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué estrategia utilizan la mayoría de los estafadores en relación con el dinero de las cuentas bancarias?",
+      "opciones": {
+        "a": "La mayoría de los estafadores no suelen retirar todo el dinero de la cuenta de una vez, en su lugar, sacan pequeñas cantidades periódicamente, lo que se conoce como 'carteras zombi.'",
+        "b": "La mayoría de los estafadores utilizan el dinero de las cuentas bancarias para financiar expediciones espaciales.",
+        "c": "La mayoría de los estafadores utilizan el dinero de las cuentas bancarias para comprar dulces en línea.",
+        "d": "La mayoría de los estafadores regalan todo el dinero de las cuentas bancarias a extraños en línea."
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué implicaciones tiene la pérdida de privacidad en línea?",
+      "opciones": {
+        "a": "La pérdida de privacidad en línea implica que todos los secretos del mundo sean compartidos en línea.",
+        "b": "La pérdida de privacidad en línea implica que todas las conversaciones privadas se conviertan en libros abiertos en línea.",
+        "c": "La pérdida de privacidad en línea implica que todos los unicornios cibernéticos revelen tus deseos más profundos en línea.",
+        "d": "La pérdida de privacidad en línea puede llevar a que las empresas recopilen tu información y la utilicen para publicidad no deseada, rastreo en línea y venta de datos a terceros."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué riesgo adicional enfrenta una persona si su identidad en línea es comprometida?",
+      "opciones": {
+        "a": "Si tu identidad en línea es comprometida, podrían organizar un desfile en línea en tu honor.",
+        "b": "Si tu identidad en línea es comprometida, podrían convocar a una fiesta en línea en tu nombre.",
+        "c": "Si tu identidad en línea es comprometida, podrían coronarte rey o reina de la internet.",
+        "d": "Si tu identidad en línea es comprometida, podrían acceder a tus fotos, correos electrónicos, mensajes y otros datos personales, lo que constituye una grave violación de la privacidad."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué posibilidad existe de que el contenido personal comprometido sea retenido como rehén?",
+      "opciones": {
+        "a": "Existe la posibilidad de que el contenido personal comprometido se convierta en un superhéroe digital y luche contra el crimen cibernético.",
+        "b": "Existe la posibilidad de que el contenido personal comprometido se convierta en una obra maestra digital y se exhiba en un museo en línea.",
+        "c": "Existe la posibilidad de que el contenido personal comprometido sea retenido como rehén por la persona detrás del ataque.",
+        "d": "Existe la posibilidad de que el contenido personal comprometido se convierta en una celebridad digital y realice entrevistas en línea."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuáles son algunas medidas que las personas pueden tomar para proteger su información personal en línea?",
+      "opciones": {
+        "a": "Algunas medidas incluyen utilizar contraseñas seguras, mantener el software actualizado y ser consciente de las estafas en línea.",
+        "b": "Algunas medidas incluyen convertirse en un superhéroe digital y defender la internet contra todas las amenazas.",
+        "c": "Algunas medidas incluyen publicar toda la información personal en redes sociales, compartir contraseñas con desconocidos y hacer clic en enlaces sospechosos.",
+        "d": "Algunas medidas incluyen gritar toda la información personal en la calle, dejar las contraseñas escritas en la puerta y abrir todos los correos electrónicos sospechosos."
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "pregunta": "¿Cómo pueden las personas proteger su información financiera en línea?",
+      "opciones": {
+        "a": "Proteger la información financiera en línea implica publicar todos tus datos bancarios en redes sociales.",
+        "b": "Proteger la información financiera en línea implica regalar todo tu dinero a extraños en línea.",
+        "c": "Proteger la información financiera en línea implica utilizar tu tarjeta de crédito en todos los sitios web sin restricciones.",
+        "d": "Proteger la información financiera en línea implica usar conexiones seguras, revisar regularmente las transacciones y evitar compartir datos sensibles en sitios no confiables."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué importancia tiene la educación en la protección de identidad en línea?",
+      "opciones": {
+        "a": "La educación es inútil y no aporta nada a la protección de identidad en línea.",
+        "b": "La educación implica convertirte en un maestro digital y enseñar a los delincuentes cómo cometer delitos en línea.",
+        "c": "La educación es crucial para que las personas reconozcan las amenazas en línea y adopten prácticas seguras para proteger su identidad.",
+        "d": "La educación implica convertirte en un gurú en línea y predicar sobre la importancia de compartir todos tus secretos en la internet."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es el papel de las leyes y regulaciones en la protección de identidad en línea?",
+      "opciones": {
+        "a": "Las leyes y regulaciones permiten que todos los delincuentes en línea escapen de la justicia.",
+        "b": "Las leyes y regulaciones establecen estándares de seguridad y proporcionan medidas legales contra el robo de identidad en línea.",
+        "c": "Las leyes y regulaciones impiden que las personas disfruten de la internet.",
+        "d": "Las leyes y regulaciones son irrelevantes y no tienen impacto en la protección de identidad en línea."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué medidas adicionales pueden tomar las personas para mantener su privacidad en línea?",
+      "opciones": {
+        "a": "Además de proteger su identidad, las personas pueden convertirse en celebridades digitales y compartir sus vidas en línea en tiempo real.",
+        "b": "Además de proteger su identidad, las personas pueden enviar regalos digitales a todos en línea para mantener la privacidad.",
+        "c": "Además de proteger su identidad, las personas pueden compartir toda su información personal en línea para que todos la vean.",
+        "d": "Además de proteger su identidad, las personas pueden usar redes privadas virtuales (VPNs) y extensiones de privacidad en navegadores para mantener su privacidad en línea."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Qué es el fraude financiero en línea y cómo puede afectar a una persona?",
+      "opciones": {
+        "a": "El fraude financiero en línea se refiere a la inversión en línea de dinero para obtener ganancias.",
+        "b": "El fraude financiero en línea es inofensivo y no afecta a las personas.",
+        "c": "El fraude financiero en línea implica que los criminales accedan a cuentas bancarias, tarjetas de crédito y cuentas en línea de una persona, lo que puede resultar en la pérdida de dinero y daño significativo a su historial crediticio.",
+        "d": "El fraude financiero en línea es una técnica para aumentar la puntuación crediticia de una persona."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Cuál es la responsabilidad de un banco en casos de robo de identidad?",
+      "opciones": {
+        "a": "Los bancos tienen cierta responsabilidad en la protección del dinero de los clientes, pero en algunos casos, pueden considerar que el robo de identidad fue culpa del cliente y no podrán ayudar.",
+        "b": "Los bancos pueden negar todos los servicios a las víctimas de robo de identidad.",
+        "c": "Los bancos no tienen ninguna responsabilidad en casos de robo de identidad.",
+        "d": "Los bancos son siempre responsables de cualquier caso de robo de identidad y deben reembolsar cualquier pérdida."
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "pregunta": "¿Qué son las 'carteras zombi' en el contexto del fraude financiero?",
+      "opciones": {
+        "a": "Las 'carteras zombi' son tarjetas de crédito sin límite de gasto.",
+        "b": "Las 'carteras zombi' se refieren a la estrategia de los estafadores de no retirar todo el dinero de una cuenta de una vez, sino sacar pequeñas cantidades periódicamente para que los propietarios de las cuentas no noten la ausencia de su dinero.",
+        "c": "Las 'carteras zombi' son cuentas bancarias especiales para zombies.",
+        "d": "Las 'carteras zombi' son una forma segura de proteger su dinero en línea."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Cómo puede la pérdida de privacidad en línea afectar a una persona?",
+      "opciones": {
+        "a": "La pérdida de privacidad en línea puede hacer que una persona gane más dinero.",
+        "b": "La pérdida de privacidad en línea solo afecta a las celebridades.",
+        "c": "La pérdida de privacidad en línea puede resultar en que la información personal de una persona sea recopilada por empresas para dirigir publicidad no deseada, rastrear su actividad en línea y vender su información a terceros.",
+        "d": "La pérdida de privacidad en línea no tiene ningún efecto en las personas."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué se entiende por 'violación de la privacidad personal' en el contexto del robo de identidad en línea?",
+      "opciones": {
+        "a": "La 'violación de la privacidad personal' se refiere a compartir información personal en línea de manera segura.",
+        "b": "La 'violación de la privacidad personal' solo afecta a las personas famosas.",
+        "c": "La 'violación de la privacidad personal' implica que los delincuentes pueden acceder a fotos, correos electrónicos, mensajes y otros datos personales de la víctima, lo que constituye una grave invasión de la privacidad.",
+        "d": "La 'violación de la privacidad personal' es una práctica legítima en el robo de identidad."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Qué riesgo adicional enfrenta una persona cuya identidad en línea ha sido comprometida?",
+      "opciones": {
+        "a": "Si la identidad en línea de una persona es comprometida, existe la posibilidad de que su contenido personal sea retenido como rehén por la persona detrás del ataque.",
+        "b": "El riesgo adicional para una persona cuya identidad en línea ha sido comprometida es que ganará dinero extra.",
+        "c": "Una persona cuya identidad en línea ha sido comprometida puede solicitar una indemnización.",
+        "d": "No hay riesgo adicional para una persona cuya identidad en línea ha sido comprometida."
+      },
+      "respuesta_correcta": "a"
+    },
+    {
+      "pregunta": "¿Cuáles son algunas de las estrategias y medidas destacadas en el video para proteger la identidad en línea?",
+      "opciones": {
+        "a": "Las estrategias incluyen hacer clic en todos los enlaces sospechosos sin verificarlos.",
+        "b": "Las estrategias incluyen compartir contraseñas en línea para aumentar la seguridad.",
+        "c": "Las estrategias incluyen mantener contraseñas seguras, utilizar la autenticación de dos factores, ser consciente de las señales de phishing y mantener dispositivos seguros y actualizados.",
+        "d": "No se mencionan estrategias o medidas para proteger la identidad en línea en el video."
+      },
+      "respuesta_correcta": "c"
+    },
+    {
+      "pregunta": "¿Por qué se enfatiza la importancia de la educación y la conciencia en el video?",
+      "opciones": {
+        "a": "La importancia de la educación y la conciencia no se menciona en el video.",
+        "b": "La educación y la conciencia no son importantes en la protección de la identidad en línea.",
+        "c": "La educación y la conciencia solo son importantes para los niños.",
+        "d": "Se enfatiza la importancia de la educación y la conciencia porque la información es la mejor defensa contra el robo de identidad, y las personas deben estar informadas para protegerse de las amenazas cibernéticas."
+      },
+      "respuesta_correcta": "d"
+    },
+    {
+      "pregunta": "¿Por qué se menciona que la protección de la identidad es un esfuerzo continuo?",
+      "opciones": {
+        "a": "La protección de la identidad en línea es responsabilidad de las empresas, no de los individuos.",
+        "b": "La protección de la identidad en línea es un esfuerzo continuo porque las amenazas cibernéticas evolucionan constantemente, y la vigilancia constante es esencial para mantener los datos personales seguros.",
+        "c": "La protección de la identidad en línea no requiere esfuerzo continuo y es un proceso único.",
+        "d": "La protección de la identidad en línea solo debe realizarse una vez al año."
+      },
+      "respuesta_correcta": "b"
+    },
+    {
+      "pregunta": "¿Qué se destaca como un compromiso que todos deben asumir en el ciberespacio?",
+      "opciones": {
+        "a": "No se destaca ningún compromiso en el ciberespacio.",
+        "b": "La protección de la identidad en línea es responsabilidad exclusiva de las empresas.",
+        "c": "Se destaca que la protección de la identidad es un compromiso que todos deben asumir en el ciberespacio, y es responsabilidad de cada individuo tomar medidas para mantener sus datos personales seguros.",
+        "d": "La protección de la identidad en línea es responsabilidad exclusiva del gobierno."
+      },
+      "respuesta_correcta": "c"
+    }
+  ]
 }
